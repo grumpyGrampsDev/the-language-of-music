@@ -2,6 +2,8 @@
 
 _A framework for becoming fluent in music._
 
+“Music isn’t something to memorize. It’s a language to become fluent in.”
+
 ---
 
 ## Why This Exists
