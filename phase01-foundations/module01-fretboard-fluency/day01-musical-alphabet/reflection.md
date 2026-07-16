@@ -2,19 +2,19 @@
 
 ## Date
 
-2026-07-14
+...
 
 ---
 
 ## Time Practiced
 
-45 minutes
+...
 
 ---
 
 ## Confidence (1–10)
 
-6
+...
 
 ---
 
