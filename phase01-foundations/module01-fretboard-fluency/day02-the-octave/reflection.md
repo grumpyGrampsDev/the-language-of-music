@@ -2,15 +2,19 @@
 
 ## Date
 
+...
+
 ---
 
 ## Time Practiced
+
+...
 
 ---
 
 ## Confidence (1–10)
 
-6
+...
 
 ---
 
