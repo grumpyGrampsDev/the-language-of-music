@@ -41,7 +41,7 @@ The musical alphabet works the same way.
 
 Look carefully:
 
-```text
+```
 C   D   E   F   G   A   B
 ```
 
@@ -55,7 +55,7 @@ There are notes hiding between some of these letters.
 
 ## The Complete Chromatic Alphabet
 
-```text
+```
 C  C#  D  D#  E  F  F#  G  G#  A  A#  B
 ```
 
@@ -63,7 +63,7 @@ Now we've accounted for every note before the pattern repeats.
 
 Count them.
 
-```text
+```
 1  2  3  4  5  6  7  8  9  10 11 12
 ```
 
@@ -81,13 +81,13 @@ A **sharp** means:
 
 The symbol is:
 
-```text
+```
 #
 ```
 
 Examples:
 
-```text
+```
 C → C#
 
 F → F#
@@ -107,13 +107,13 @@ A **flat** means:
 
 The symbol is:
 
-```text
+```
 ♭
 ```
 
 Examples:
 
-```text
+```
 D → D♭
 
 G → G♭
@@ -131,13 +131,13 @@ Here's something that surprises almost everyone.
 
 These are the same note:
 
-```text
+```
 C# = D♭
 ```
 
 Likewise:
 
-```text
+```
 D# = E♭
 
 F# = G♭
@@ -165,7 +165,7 @@ For now, simply know that they sound exactly the same.
 
 Look carefully at the alphabet again.
 
-```text
+```
 C  C#  D  D#  E  F  F#  G  G#  A  A#  B
 ```
 
@@ -179,7 +179,7 @@ Those notes already sit directly beside each other.
 
 So these do **not** exist:
 
-```text
+```
 E#
 
 B#
@@ -215,7 +215,7 @@ Answer these questions without looking back.
 
 Fill in the missing notes.
 
-```text
+```
 C ___ D ___ E F ___ G ___ A ___ B C
 ```
 
