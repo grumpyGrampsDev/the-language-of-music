@@ -1,445 +1,311 @@
 # The Language of Music
 
-## CURRICULUM_ROADMAP.md
-
-> _This document is the architectural blueprint for **The Language of Music**._
->
-> It defines **what** is taught and **why it is taught in that order.**
->
-> Lesson content, exercises, and teaching methods are intentionally omitted. Those belong elsewhere.
->
-> Every phase, module, and lesson should support the educational philosophy described in `PHILOSOPHY.md`.
-
----
-
-# The Journey
-
-The purpose of this curriculum is not to accumulate information.
-
-It is to guide the learner through a series of conceptual transformations.
-
-Each phase changes the way the learner understands music.
-
-Each module answers an essential question.
-
-Each lesson contributes to a single transformation.
-
----
-
-# Phase I — Foundations
-
-> **The instrument is no longer a mystery.**
-
-### Guiding Sentence
-
-_Music is built from names, patterns, and relationships._
-
----
+# Curriculum Roadmap
 
 ## Purpose
 
-Introduce the fundamental language of music and establish the guitar as a physical map of that language.
+This roadmap defines the long-term architecture of **The Language of Music**.
+
+It is not simply a list of topics.
+
+It is a sequence of conceptual transformations.
+
+Each lesson should answer one meaningful question while naturally creating the next.
+
+The curriculum should feel less like climbing a ladder and more like following a trail of discoveries.
 
 ---
 
-## Transformation
+# The Learner's Journey
 
-The learner stops seeing the guitar as strings and frets and begins seeing notes, patterns, and relationships.
+The curriculum develops in four broad stages.
 
----
+## Phase I — Musical Foundations
 
-## Completion
+_"What is music?"_
 
-By the end of this phase the learner should:
+Students learn the language itself.
 
-- Think in note names instead of fret numbers.
-- Navigate the natural notes confidently.
-- Understand octaves.
-- Understand the chromatic system.
-- Measure musical distance using half and whole steps.
-- Recognize repeating patterns across the instrument.
-- See the fretboard as an organized musical map.
+Before they can play fluently, they must understand the alphabet, vocabulary, and relationships that make music possible.
 
 ---
 
-### Module 1 — Fretboard Fluency
+## Phase II — Musical Fluency
 
-**Purpose**
+_"How does music work?"_
 
-Develop a foundational understanding of how music is organized before introducing scales, chords, or technique.
+Students begin recognizing patterns throughout the instrument and hearing relationships rather than isolated notes.
 
-**Promise**
-
-> You will stop translating fret numbers into notes and begin recognizing notes directly.
-
-**Driving Question**
-
-> _How do I stop seeing numbers and begin seeing notes?_
-
-**Core Concepts**
-
-- Musical alphabet
-- Octaves
-- Chromatic notes
-- Sharps and flats
-- Half steps
-- Whole steps
-- Fretboard navigation
-- Octave geometry
-- Pattern recognition
-
-**Concepts Reinforced**
-
-None (entry point of the curriculum)
-
-**Capstone**
-
-The learner can confidently locate notes across the instrument while explaining why those notes repeat and how they relate to one another.
-
-**Estimated Lessons**
-
-8–12
+This is where the guitar begins to make sense.
 
 ---
 
-# Phase II — Navigation
+## Phase III — Musical Expression
 
-> **The instrument is no longer a maze.**
+_"How do musicians communicate?"_
 
-### Guiding Sentence
+Students learn to use harmony, rhythm, dynamics, articulation, phrasing, tone, and technique intentionally.
 
-_The fretboard becomes smaller as understanding becomes larger._
+Music becomes expressive rather than mechanical.
 
 ---
+
+## Phase IV — Musical Independence
+
+_"How do I continue learning forever?"_
+
+The curriculum gradually removes itself.
+
+Students analyze songs independently.
+
+Learn by ear.
+
+Improvise.
+
+Compose.
+
+Teach.
+
+Continue learning without relying on structured instruction.
+
+The curriculum succeeds when it is no longer needed.
+
+---
+
+# Module 1 — Fretboard Fluency
 
 ## Purpose
 
-Transform isolated note knowledge into confident movement across the entire instrument.
+Students begin seeing the guitar as an organized musical system rather than a collection of strings and frets.
+
+The goal is not memorization.
+
+The goal is recognition.
+
+Every lesson changes how the learner sees the instrument.
 
 ---
 
-## Transformation
+## Day 1 — Learning Music's Alphabet
 
-The learner begins navigating by relationships rather than by memorized locations.
+**Learner's Question**
 
----
+> What are the names of the notes?
 
-## Completion
+**Conceptual Transformation**
 
-The learner should:
-
-- Instantly recognize intervals.
-- Understand interval quality.
-- Locate notes from reference points.
-- Navigate every string confidently.
-- Recognize octave networks.
-- Understand the Circle of Fifths as a navigational tool.
+> Music has an alphabet.
 
 ---
 
-### Planned Modules
+## Day 2 — Why Do the Notes Repeat?
 
-## Module 2 — Intervals
+**Learner's Question**
 
-**Driving Question**
+> Why does the alphabet start over again?
 
-> _How do musicians describe the distance between notes?_
+**Conceptual Transformation**
 
----
-
-## Module 3 — Navigating the Fretboard
-
-**Driving Question**
-
-> _How can I find any note without memorizing every fret?_
+> The musical alphabet repeats forever.
 
 ---
 
-## Module 4 — The Circle of Fifths
+## Day 3 — What's Hiding Between the Notes?
 
-**Driving Question**
+**Learner's Question**
 
-> _Why do keys and notes seem to organize themselves in a circle?_
+> What happens between the natural notes?
 
----
+**Conceptual Transformation**
 
-## Module Capstone
-
-Navigate to any requested note or interval anywhere on the instrument without relying on fret counting.
+> Western music contains twelve unique notes.
 
 ---
 
-# Phase III — Harmony
+## Day 4 — How Do Musicians Measure Distance?
 
-> **Music is no longer coincidence.**
+**Learner's Question**
 
-### Guiding Sentence
+> How do musicians describe distance?
 
-_Harmony explains why music feels the way it does._
+**Conceptual Transformation**
 
----
-
-## Purpose
-
-Reveal the logic behind scales, chords, keys, and harmonic movement.
+> Musical distance is measured using half steps and whole steps.
 
 ---
 
-## Transformation
+# Part II — Seeing the Neck
 
-The learner understands why notes belong together.
+The first four lessons answer one broad question:
 
-Patterns become explanations instead of memorized shapes.
+> **What are the notes?**
 
----
+The next lessons answer a different question:
 
-## Completion
+> **Where are they?**
 
-The learner should understand:
-
-- Scale construction
-- Major and minor harmony
-- Chord construction
-- Functional harmony
-- Harmonic analysis
-- Basic voice leading
-- Common chord progressions
+This marks the learner's first major shift from understanding music conceptually to understanding how those concepts appear on the guitar.
 
 ---
 
-### Planned Modules
+## Day 5.1 — Finding the Same Note Again
 
-## Module 5 — The Major Scale
+**Learner's Question**
 
-> _Why is the major scale built the way it is?_
+> Can the same note exist in more than one place?
 
----
+**Conceptual Transformation**
 
-## Module 6 — Intervals Become Chords
-
-> _How do multiple notes create harmony?_
+> A note is an identity, not a location.
 
 ---
 
-## Module 7 — Keys and Functional Harmony
+## Day 5.2 — The Shape Was There All Along
 
-> _Why does music feel like it wants to go somewhere?_
+**Learner's Question**
 
----
+> If notes repeat, can I predict where they'll appear?
 
-## Module 8 — Harmonic Movement
+**Conceptual Transformation**
 
-> _Why do some chord progressions sound inevitable?_
-
----
-
-## Module Capstone
-
-Analyze the harmony of a simple song and explain why it works.
+> Repeated notes follow recognizable geometric patterns.
 
 ---
 
-# Phase IV — Expression
+## Day 5.3 — Seeing the Neck Differently
 
-> **Music becomes communication.**
+**Learner's Question**
 
-### Guiding Sentence
+> Is the fretboard random?
 
-_Technique exists to serve musical intention._
+**Conceptual Transformation**
 
----
-
-## Purpose
-
-Develop expressive musicianship by connecting understanding to physical performance.
+> The entire fretboard is built from repeating musical relationships.
 
 ---
 
-## Transformation
+## Future Module Progression
 
-Technique becomes a deliberate means of communication rather than an isolated skill.
+The remainder of the curriculum should continue following the same pattern.
 
----
+Every lesson should answer a meaningful question while preparing the learner to ask the next.
 
-## Completion
+Possible future modules include:
 
-The learner should intentionally control:
+- Musical Intervals
+- Scale Construction
+- Harmony
+- Chord Construction
+- Functional Harmony
+- Rhythm
+- Groove
+- Melody
+- Ear Training
+- Song Analysis
+- Improvisation
+- Composition
+- Tone and Sound
+- Technique in Service of Expression
+- Musical Independence
 
-- Dynamics
-- Articulation
-- Phrasing
-- Timing
-- Tone
-- Touch
-- Musical tension and release
+These modules describe broad destinations rather than rigid sequences.
 
----
-
-### Planned Modules
-
-## Module 9 — Rhythm as Language
-
-> _How does rhythm shape meaning?_
-
----
-
-## Module 10 — Musical Phrasing
-
-> _Why do some melodies sound like sentences?_
+The exact ordering may evolve as the curriculum develops.
 
 ---
 
-## Module 11 — Tone and Touch
+# Design Standards
 
-> _How does the beginning of a note change its meaning?_
+Every lesson should satisfy the following criteria:
 
----
+- One major conceptual transformation.
+- One meaningful learner question.
+- Discovery before explanation whenever practical.
+- Relationships before memorization.
+- Reflection before completion.
+- A clear connection to previous lessons.
+- A natural bridge to the next lesson.
 
-## Module 12 — Musical Conversation
-
-> _How do musicians create ideas instead of repeating exercises?_
-
----
-
-## Module Capstone
-
-Perform a piece while intentionally shaping phrasing, dynamics, articulation, and tone to communicate a clear musical idea.
+If a lesson cannot be summarized by one transformation, it should probably become multiple lessons.
 
 ---
 
-# Phase V — Musicianship
+# Curriculum Architecture
 
-> **Growth no longer depends on the curriculum.**
+Every lesson builds upon the previous one.
 
-### Guiding Sentence
+```
+Previous Understanding
+        ↓
+Meaningful Question
+        ↓
+Experiment
+        ↓
+Discovery
+        ↓
+Explanation
+        ↓
+Application
+        ↓
+Reflection
+        ↓
+Language of Music Principle
+        ↓
+Next Question
+```
 
-_A musician who understands can continue growing for a lifetime._
-
----
-
-## Purpose
-
-Develop independent musicians capable of learning, analyzing, and creating without relying on structured instruction.
-
----
-
-## Transformation
-
-The learner becomes a self-directed musician.
-
----
-
-## Completion
-
-The learner should confidently:
-
-- Learn music by ear.
-- Analyze unfamiliar songs.
-- Create effective practice plans.
-- Transcribe melodies.
-- Improvise thoughtfully.
-- Continue learning independently.
-
----
-
-### Planned Modules
-
-## Module 13 — Ear Training
-
-> _How do I recognize music before I play it?_
-
----
-
-## Module 14 — Learning Songs Efficiently
-
-> _How do experienced musicians learn so quickly?_
-
----
-
-## Module 15 — Improvisation
-
-> _How do I create musical ideas instead of repeating patterns?_
-
----
-
-## Module 16 — Lifelong Musicianship
-
-> _How do I keep growing after the curriculum ends?_
-
----
-
-## Final Capstone
-
-The learner independently selects, learns, analyzes, performs, and reflects upon a complete piece of music while demonstrating the conceptual understanding developed throughout the curriculum.
-
-The assessment is not simply whether the piece is performed correctly.
-
-It is whether the learner can explain the musical decisions that shape it.
-
----
-
-# Editorial Principles
-
-The roadmap is governed by the following architectural rules.
-
-## Every Phase Produces a Transformation
-
-Phases are not collections of topics.
-
-They describe how the learner changes.
-
----
-
-## Every Module Makes a Promise
-
-Each module exists to create a meaningful and measurable improvement in the learner's understanding.
-
----
-
-## Every Lesson Answers a Question
-
-Lessons should never feel arbitrary.
-
-Each lesson exists because the learner naturally wants its answer.
-
----
-
-## Every Lesson Creates the Next Question
-
-Curiosity is the engine of progression.
-
-A completed lesson should naturally lead to the next.
-
-The curriculum should feel like a continuous conversation rather than a checklist.
-
----
-
-## Every Concept Earns Its Place
-
-Nothing is included simply because it is traditionally taught.
-
-Every concept must prepare the learner for what comes next.
+This rhythm should become invisible to the learner while remaining intentional to the curriculum author.
 
 ---
 
 # Long-Term Vision
 
-This roadmap is intentionally stable.
+As the curriculum progresses:
 
-Individual lessons will evolve.
+The lessons should become shorter.
 
-Exercises will improve.
+The learner's observations should become deeper.
 
-Examples will change.
+The explanations should become lighter.
 
-Teaching techniques will mature.
+Eventually, learners should begin discovering ideas before the curriculum formally introduces them.
 
-The architecture should remain constant.
+That is not an accident.
 
-When future revisions are made, they should strengthen this structure rather than replace it.
+It is the goal.
 
-The goal is not to produce musicians who know more facts.
+The curriculum should gradually shift from teacher-led discovery to learner-led discovery.
 
-The goal is to produce musicians who understand music so well that they no longer depend upon the curriculum itself.
+When that happens, the student is no longer simply completing lessons.
 
-When that happens, **The Language of Music** has fulfilled its purpose.
+They are thinking like a musician.
+
+---
+
+# Success Criteria
+
+The curriculum has succeeded when learners begin saying things like:
+
+> "I think I know what comes next."
+
+> "I noticed this pattern before the lesson mentioned it."
+
+> "I think these two ideas are connected."
+
+Those moments indicate genuine understanding.
+
+The curriculum is no longer supplying every answer.
+
+It is helping learners ask better questions.
+
+---
+
+# Final Principle
+
+Every lesson should leave the learner with two things:
+
+One clear answer.
+
+One compelling new question.
+
+That rhythm of curiosity and discovery is the engine that drives **The Language of Music** from the first lesson to the last.

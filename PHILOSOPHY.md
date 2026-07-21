@@ -50,6 +50,8 @@ Practice matters.
 
 But understanding gives each of them meaning.
 
+Ultimately, the curriculum itself should disappear, leaving only the learner's ability to understand music independently.
+
 ---
 
 # The Musician We Hope to Develop
@@ -100,7 +102,25 @@ Memorization built upon understanding becomes meaningful.
 
 Memorization without understanding becomes fragile.
 
-Whenever possible, explanation precedes repetition.
+Understanding is the foundation upon which memory is built.
+
+---
+
+## Discovery Before Explanation
+
+Understanding is strongest when learners first encounter a question, notice a pattern, or perform a small experiment before receiving formal explanation.
+
+Rather than presenting facts to memorize, **The Language of Music** invites learners to observe, predict, test, and discover.
+
+Vocabulary should name understanding that already exists rather than create it.
+
+Whenever practical, learners should experience a musical idea before learning its formal name.
+
+Curiosity opens the door.
+
+Discovery walks through it.
+
+Explanation organizes what has already been found.
 
 ---
 
@@ -139,6 +159,20 @@ Music is built from relationships.
 Intervals, harmony, rhythm, melody, and form all emerge from the way musical ideas relate to one another.
 
 Every lesson should strengthen the learner's understanding of those relationships.
+
+---
+
+## Questions Drive the Curriculum
+
+Every lesson should answer one meaningful question while naturally creating the next.
+
+Learners should rarely feel as though topics are introduced simply because they appear next in a syllabus.
+
+Instead, each new concept should feel like the natural answer to a question created by the previous lesson.
+
+A curriculum should not merely transfer information.
+
+It should sustain curiosity.
 
 ---
 
@@ -192,9 +226,11 @@ Education should answer questions.
 
 Great education also creates them.
 
-Every lesson should naturally produce the curiosity that makes the following lesson feel necessary.
+Students should continue because they genuinely want the next answer—not because they are simply progressing through a checklist.
 
-Students should continue because they genuinely want the next answer—not because they are simply progressing through a list.
+Curiosity is not a by-product of learning.
+
+It is the engine that drives it.
 
 ---
 
@@ -212,90 +248,30 @@ Reflection transforms information into understanding.
 
 The purpose of this curriculum is transformation.
 
-| At the Beginning         | By the End                         |
-| ------------------------ | ---------------------------------- |
-| I see frets.             | I see notes.                       |
-| I memorize shapes.       | I recognize patterns.              |
-| I count distances.       | I understand relationships.        |
-| I copy songs.            | I understand songs.                |
-| I ask, "What fret?"      | I ask, "What note?"                |
-| I practice mechanically. | I practice intentionally.          |
-| I rely on instruction.   | I continue learning independently. |
-
-These are the changes every lesson should support.
+| At the Beginning       | By the End                         |
+| ---------------------- | ---------------------------------- |
+| I see frets.           | I see notes.                       |
+| I memorize locations.  | I recognize relationships.         |
+| I memorize shapes.     | I understand patterns.             |
+| I count distances.     | I hear intervals.                  |
+| I play exercises.      | I make musical decisions.          |
+| I copy songs.          | I understand songs.                |
+| I rely on instruction. | I continue learning independently. |
 
 ---
 
-# Editorial Standards
+# A Final Thought
 
-Every lesson should satisfy the following questions before it is considered complete.
+The purpose of this curriculum is not to produce students who know more facts about music.
 
-### Why is this lesson necessary?
+It is to produce musicians who **see music differently**.
 
-Every lesson must solve a genuine problem in the learner's understanding.
+When learners begin asking questions before the curriculum asks them...
 
----
+When they begin noticing patterns before they're pointed out...
 
-### What misconception does it remove?
+When they start predicting what they'll find before they turn the page...
 
-Good lessons replace inaccurate mental models with better ones.
+...the curriculum has begun to disappear.
 
----
-
-### What question does it answer?
-
-Every lesson exists because the learner has a question worth answering.
-
----
-
-### What question does it create?
-
-Every lesson should naturally inspire the curiosity that leads into the next.
-
-The curriculum should feel like a continuous conversation rather than a sequence of disconnected topics.
-
----
-
-### How has the learner's thinking changed?
-
-Every lesson should produce a measurable conceptual transformation.
-
-If a lesson only adds information without changing the learner's mental model, it should be reconsidered.
-
----
-
-# Measuring Success
-
-This curriculum is not successful because it covers a large amount of material.
-
-It is successful if learners finish it with confidence, curiosity, and independence.
-
-The ultimate goal is not mastery of this curriculum.
-
-The ultimate goal is that the learner no longer needs it.
-
-If, at the end of this journey, a student can honestly say:
-
-> _"For the first time, music makes sense."_
-
-then **The Language of Music** has fulfilled its purpose.
-
----
-
-# A Final Reminder
-
-Every decision made within this curriculum should support one enduring principle:
-
-> **Teach understanding first, fluency second, and technique in service of expression.**
-
-When choosing between covering more material and deepening understanding, choose understanding.
-
-When choosing between memorization and pattern recognition, choose pattern recognition.
-
-When choosing between technical display and meaningful musical communication, choose expression.
-
-The purpose of this curriculum is not to create musicians who know more.
-
-It is to help develop musicians who understand more.
-
-Everything else follows from there.
+Only the language remains.

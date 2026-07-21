@@ -1,402 +1,368 @@
 # The Language of Music
 
-## CURRICULUM_GUIDE.md
+# Curriculum Guide
 
-> _This document defines how every lesson in **The Language of Music** should be designed, written, and evaluated._
->
-> It exists to ensure that every lesson, regardless of when it is written or who writes it, reflects the educational philosophy of this curriculum.
->
-> This guide should be read alongside **PHILOSOPHY.md** and **CURRICULUM_ROADMAP.md**.
->
-> **PHILOSOPHY.md** explains _why_ we teach.
->
-> **CURRICULUM_ROADMAP.md** explains _what_ we teach.
->
-> **CURRICULUM_GUIDE.md** explains _how_ we teach.
+## Purpose
 
----
+This guide defines the standards for every lesson in **The Language of Music**.
 
-# The Purpose of a Lesson
+It exists to ensure that every lesson, regardless of topic, contributes to a single, unified educational experience.
 
-Every lesson exists to accomplish one thing:
+A lesson should not merely communicate information.
 
-> **To produce a meaningful conceptual transformation in the learner.**
+It should create understanding.
 
-A lesson is not successful because it presents information.
+If multiple authors contribute to this curriculum, a learner should never be able to tell where one author's work ends and another begins.
 
-It is successful because the learner finishes it thinking differently than when they began.
-
-Facts support transformation.
-
-They are not the transformation itself.
-
-Before writing a lesson, identify the change in thinking that should occur.
-
-If that change cannot be clearly stated, the lesson is not yet ready to be written.
+Consistency is part of the curriculum.
 
 ---
 
-# The Editorial Philosophy
+# Educational Philosophy in Practice
 
-Every lesson should reflect the following principles.
+Every lesson should embody the principles established in **PHILOSOPHY.md**.
 
-## Understanding Before Memorization
+In practice, this means:
 
-Students should understand **why** before memorizing **what**.
+- Teach music before guitar whenever possible.
+- Teach understanding before memorization.
+- Discovery should precede explanation whenever practical.
+- Build one major conceptual transformation per lesson.
+- Prefer relationships over isolated facts.
+- Encourage curiosity rather than passive consumption.
+- Help learners develop mental models instead of memorizing procedures.
+- End every lesson with a learner who sees music differently than when they began.
 
-Definitions, diagrams, and exercises should always support understanding rather than replace it.
-
----
-
-## Fluency Before Speed
-
-Recognition comes before recall.
-
-Recall comes before speed.
-
-Never encourage speed until understanding has become natural.
+Whenever a writing decision is unclear, return to the philosophy before inventing a new approach.
 
 ---
 
-## Music Before Guitar
+# The Goal of Every Lesson
 
-The guitar is the laboratory.
+Every lesson should answer one meaningful question while naturally creating the next.
 
-Music is the subject.
+A learner should feel that each lesson solves a problem they genuinely wanted answered.
 
-Whenever possible, teach musical ideas first, then demonstrate how they appear on the guitar.
+Good lessons do not simply introduce new topics.
 
-This curriculum should deepen the learner's understanding of music, not merely their familiarity with one instrument.
+They satisfy curiosity.
 
----
-
-## Technique in Service of Expression
-
-Technique is never the objective.
-
-Technique exists to communicate musical intention.
-
-Whenever technical instruction is introduced, connect it to the musical idea it enables.
+The best lessons end with a new question that feels impossible not to ask.
 
 ---
 
-## Curiosity Drives Progress
+# One Transformation Per Lesson
 
-Students should finish each lesson with a genuine desire to continue.
+Each lesson should produce exactly one major conceptual transformation.
 
-Lessons should answer meaningful questions while naturally creating the next one.
+Ask this question before writing:
 
-Curiosity is the engine that moves the curriculum forward.
+> **How should the learner think differently when this lesson is finished?**
 
----
+If more than one major transformation exists, split the lesson.
 
-# The Structure of Every Lesson
-
-Although individual lessons may vary slightly, they should generally follow the same progression.
-
-## 1. Learning Objective
-
-State what the learner should understand or be capable of by the end of the lesson.
-
-Objectives should describe understanding, not simply completion.
+Smaller lessons with clear outcomes are almost always stronger than larger lessons covering multiple ideas.
 
 ---
 
-## 2. Opening Thought
+# The Recommended Lesson Rhythm
 
-Begin by establishing context.
+While every lesson is unique, most should follow this natural progression.
 
-The learner should understand why today's lesson matters before encountering new information.
+## 1. Connect
 
-Whenever possible, begin with a question, observation, or misconception that naturally leads into the lesson.
+Begin with what the learner already understands.
 
----
-
-## 3. Concept Discovery
-
-Introduce one central idea.
-
-Avoid overwhelming the learner with multiple unrelated concepts.
-
-Each lesson should have a single educational focus.
+Remind them where they have been before introducing where they are going.
 
 ---
 
-## 4. Concept Development
+## 2. Question
 
-Build understanding gradually.
+Introduce a meaningful question.
 
-Move from the familiar to the unfamiliar.
+The learner should understand why today's lesson matters before any explanation begins.
 
-Use examples that reinforce the learner's developing mental model.
+Questions create curiosity.
 
-Whenever possible:
-
-- Explain before naming.
-- Demonstrate before defining.
-- Connect before expanding.
+Curiosity creates attention.
 
 ---
 
-## 5. Guided Practice
+## 3. Experiment
 
-Provide opportunities to reinforce understanding through thoughtful repetition.
+Whenever practical, invite the learner to observe, predict, or explore before explaining.
 
-Practice should strengthen recognition rather than encourage rote memorization.
+Experiments should be simple.
 
----
+They exist to create firsthand experience.
 
-## 6. Guitar Application
-
-Demonstrate how today's concept appears on the instrument.
-
-Application should feel like the natural consequence of understanding rather than an isolated exercise.
+The learner should feel like they are discovering something—not merely being told something.
 
 ---
 
-## 7. Reflection
+## 4. Discover
 
-Every lesson should include opportunities for learners to describe what they now understand.
+Help the learner recognize the emerging pattern.
 
-Reflection encourages long-term retention by requiring learners to organize their own thinking.
+This is the "aha!" moment.
 
----
+Avoid naming the concept too early.
 
-## 8. The Language of Music Principle
-
-Whenever appropriate, conclude with a concise principle that summarizes the lesson's deeper idea.
-
-These principles should accumulate throughout the curriculum and reinforce its educational philosophy.
+Allow the learner to experience recognition before introducing vocabulary.
 
 ---
 
-## 9. Key Takeaways
+## 5. Explain
 
-End with a concise summary of the lesson's essential understandings.
+Only now introduce terminology, formal definitions, or theory.
 
-Avoid introducing new information here.
+Explanation should organize understanding that already exists.
 
-Summarize only what has already been explored.
+Vocabulary should name discoveries rather than replace them.
+
+---
+
+## 6. Apply
+
+Give the learner opportunities to use the idea in meaningful ways.
+
+Practice should reinforce understanding, not repetition alone.
+
+Whenever possible, application should involve prediction rather than copying.
+
+---
+
+## 7. Reflect
+
+Reflection measures transformation.
+
+Rather than asking:
+
+> "Did you understand?"
+
+Ask:
+
+> "How has your thinking changed?"
+
+Reflection is part of learning—not something added afterward.
+
+---
+
+## 8. Language of Music Principle
+
+Every lesson should conclude with one memorable principle.
+
+This should express the deepest idea of the lesson in one or two sentences.
+
+These principles become the learner's growing philosophy of music.
+
+---
+
+## 9. Looking Ahead
+
+End by creating the next question.
+
+The learner should leave excited rather than finished.
 
 ---
 
 # Writing Style
 
-The writing style should consistently reflect the values of the curriculum.
+Write with calm confidence.
 
-## Assume Intelligence
+Assume the learner is intelligent but encountering the material for the first time.
 
-Never write down to the learner.
+Avoid talking down to the learner.
 
-Complex ideas should be made accessible through clarity rather than simplification.
+Avoid unnecessary complexity.
 
----
+Favor clarity over cleverness.
 
-## Assume No Prior Knowledge
+Favor understanding over information.
 
-Never require understanding that has not yet been developed within the curriculum.
+Whenever possible:
 
-Build every lesson from concepts the learner already possesses.
+- Show before telling.
+- Ask before answering.
+- Demonstrate before defining.
+- Observe before explaining.
 
----
-
-## Clarity Over Cleverness
-
-Prefer simple language to impressive language.
-
-The learner should never have to decipher the writing before understanding the concept.
+The writing should feel like guidance from a thoughtful mentor rather than a lecture from an instructor.
 
 ---
 
-## Calm Confidence
+# Vocabulary
 
-The tone should be encouraging without becoming overly enthusiastic.
+Introduce new terminology only after the learner has experienced the idea.
 
-The curriculum should feel like learning from an experienced teacher rather than listening to a motivational speaker.
+Poor sequence:
 
----
+Definition
 
-## One Major Idea Per Lesson
+↓
 
-Depth is preferred over breadth.
+Example
 
-Resist the temptation to introduce additional concepts simply because they are related.
+Preferred sequence:
 
-A lesson that fully develops one important idea is more valuable than a lesson that briefly introduces several.
+Observation
 
----
+↓
 
-## Every Word Should Teach
+Discovery
 
-Avoid unnecessary filler.
+↓
 
-Stories, analogies, and examples should always deepen understanding rather than simply entertain.
+Vocabulary
 
----
-
-# The Spiral Principle
-
-Learning should occur in expanding circles rather than straight lines.
-
-Important concepts should not disappear after being introduced.
-
-Instead, they should be intentionally revisited throughout the curriculum.
-
-Every return should deepen understanding.
-
-The progression should resemble:
-
-**Introduce → Reinforce → Expand → Apply → Master**
-
-Students should recognize familiar ideas while seeing them from increasingly sophisticated perspectives.
+Learners remember words that explain experiences far better than words presented in isolation.
 
 ---
 
-# Lesson Evaluation Checklist
+# Practice
 
-Before a lesson is considered complete, it should satisfy each of the following questions.
+Practice should reinforce understanding—not test memory.
 
-## Purpose
+Whenever practical, replace traditional drills with experiments.
 
-- Does this lesson solve a meaningful problem?
-- Does it support the roadmap?
-- Does it align with the philosophy?
+Instead of:
 
----
+> Find every C.
 
-## Transformation
+Consider:
 
-- Does the learner's thinking change?
-- Is that change clearly identifiable?
-- Can it be stated in one sentence?
+> How many C notes can you discover?
 
----
+Instead of asking learners to repeat procedures, encourage them to predict outcomes before checking their answers.
 
-## Understanding
-
-- Is the concept explained before being memorized?
-- Are relationships emphasized over isolated facts?
-- Does the lesson strengthen an accurate mental model?
+Prediction strengthens understanding.
 
 ---
 
-## Structure
+# Questions Matter More Than Answers
 
-- Does the lesson maintain a single conceptual focus?
-- Does every section contribute to that focus?
-- Is unnecessary complexity avoided?
+The curriculum should continuously create meaningful questions.
+
+A learner who asks,
+
+> "I wonder why..."
+
+is ready to learn.
+
+Never answer questions the learner has not yet had a chance to ask.
 
 ---
 
-## Continuity
+# Musical Relationships
 
-- Does the lesson reinforce previous learning?
-- Does it prepare the learner for what follows?
+Whenever possible, teach relationships instead of objects.
+
+Instead of teaching:
+
+- this fret
+- this shape
+- this chord
+
+Teach:
+
+- why it exists
+- how it relates
+- where it comes from
+- where it appears again
+
+Music becomes dramatically easier when learners recognize relationships rather than isolated information.
+
+---
+
+# Tone and Voice
+
+Lessons should be:
+
+- Calm
+- Curious
+- Encouraging
+- Thoughtful
+- Honest
+
+Avoid exaggerated enthusiasm.
+
+Avoid unnecessary hype.
+
+Allow discovery itself to be exciting.
+
+Trust the learner.
+
+Trust the music.
+
+---
+
+# Reflection Questions
+
+Good reflection questions measure transformation.
+
+Examples:
+
+- What surprised you today?
+- What pattern did you notice?
+- How has your understanding changed?
+- What question do you have now?
+- How would you explain today's idea to someone else?
+
+Avoid questions that merely ask learners to repeat definitions.
+
+---
+
+# Language of Music Principles
+
+Each lesson ends with a principle.
+
+These principles should be:
+
+- Short
+- Memorable
+- Timeless
+- Conceptual
+
+Examples:
+
+> A note is not a place. It is an identity that can appear in many places.
+
+> Understanding relationships is more powerful than memorizing locations.
+
+> Music is built from patterns before it is built from pieces.
+
+These principles become recurring anchors throughout the curriculum.
+
+---
+
+# Editorial Checklist
+
+Before publishing a lesson, ask:
+
+- Does this lesson create one clear conceptual transformation?
+- Does it answer one meaningful question?
 - Does it naturally create the next question?
+- Does discovery come before explanation?
+- Is vocabulary introduced after understanding?
+- Is practice reinforcing understanding rather than memorization?
+- Does the learner actively participate?
+- Does the reflection measure transformation?
+- Is the Language of Music Principle memorable?
+- Does this lesson sound like every other lesson in the curriculum?
+
+If any answer is "no," revise before publishing.
 
 ---
 
-## Reflection
+# Final Standard
 
-- Does the learner have an opportunity to articulate understanding?
-- Does the lesson encourage thoughtful practice rather than mechanical repetition?
+A lesson is finished when the learner reaches the final page and thinks:
 
----
+> **"I figured that out."**
 
-# Editorial Standards
+Even though the curriculum carefully guided every step.
 
-The following standards should guide every writing decision.
+That feeling of discovery is not accidental.
 
-## Never Teach Something Simply Because It Is Traditionally Taught
-
-Every concept must earn its place.
-
-Its purpose should be clear within the learner's educational journey.
-
----
-
-## Never Introduce Terminology Before It Is Necessary
-
-Names become meaningful only after the learner has encountered the idea they describe.
-
-Experience should precede vocabulary whenever possible.
-
----
-
-## Never Mistake Definition for Understanding
-
-A learner who can repeat a definition has not necessarily developed understanding.
-
-Understanding is demonstrated through explanation, recognition, application, and connection.
-
----
-
-## Always Connect New Learning to Previous Learning
-
-New concepts should feel like natural extensions of existing understanding.
-
-Students should rarely feel as though an entirely new subject has begun.
-
----
-
-## Always Build Toward Independence
-
-The curriculum should gradually remove its own necessity.
-
-Each lesson should increase the learner's ability to learn without instruction.
-
----
-
-## Always Protect Curiosity
-
-Confusion discourages.
-
-Challenge motivates.
-
-Lessons should remain intellectually demanding without becoming overwhelming.
-
-Leave learners with confidence, not exhaustion.
-
----
-
-# The Measure of a Great Lesson
-
-A great lesson does more than communicate information.
-
-It reshapes perception.
-
-The learner should leave seeing music differently than they did when they arrived.
-
-If enough lessons accomplish that goal, transformation becomes inevitable.
-
----
-
-# A Reminder to Future Authors
-
-If you are ever uncertain about how to write a lesson, return to these questions:
-
-- What misunderstanding am I helping the learner overcome?
-- What new way of thinking should exist by the end?
-- Why does this lesson belong here instead of somewhere else?
-- How does this prepare the learner for what comes next?
-- Does this deepen understanding or merely add information?
-
-If those questions can be answered with confidence, the lesson is ready to be written.
-
-If they cannot, continue refining the lesson before teaching it.
-
----
-
-# Closing Principle
-
-Every lesson should leave the learner seeing music a little more clearly than they did yesterday.
-
-Knowledge accumulates.
-
-Understanding compounds.
-
-When each lesson contributes a small but meaningful shift in perception, those shifts become fluency.
-
-And fluency becomes musicianship.
-
-That is the purpose of **The Language of Music**.
+It is the defining characteristic of **The Language of Music**.
