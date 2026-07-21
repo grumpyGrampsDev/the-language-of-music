@@ -6,7 +6,55 @@ This project follows a milestone-based changelog rather than a strict software r
 
 ---
 
-## v0.2.0 — Building the Foundation
+## [v0.3.0] – Learning Through Discovery
+
+### Overview
+
+This release represents the first major pedagogical revision of _The Language of Music_. While the musical concepts remain unchanged, the teaching methodology has been fundamentally redesigned around guided discovery rather than direct explanation.
+
+The curriculum now encourages learners to observe, question, experiment, and recognize patterns before introducing formal vocabulary or theory. The goal is no longer simply to present information, but to help learners uncover ideas that were already present, leading to deeper understanding and longer-lasting retention.
+
+### Added
+
+- Discovery-first teaching methodology across the curriculum.
+- Standardized lesson structure centered on learner curiosity.
+- "Learner's Question" opening for every lesson.
+- "Looking Back" section to reinforce conceptual continuity.
+- "Reflection" prompts to encourage active understanding.
+- "Language of Music Principle" to conclude each lesson with a transferable insight.
+- Improved lesson transitions designed to naturally create the next question.
+
+### Changed
+
+- Rewrote Days 1–4 using the new guided discovery methodology.
+- Shifted lessons from explanation-first to observation-first.
+- Introduced vocabulary only after learners encounter the underlying concept.
+- Reduced emphasis on memorization in favor of recognizing musical patterns.
+- Strengthened narrative flow between lessons to create a continuous learning journey.
+
+### Documentation
+
+- Revised **PHILOSOPHY.md** to formalize the discovery-first educational philosophy.
+- Expanded **CURRICULUM_GUIDE.md** with the new lesson framework and editorial standards.
+- Updated **CURRICULUM_ROADMAP.md** to align curriculum progression with conceptual transformations and learner-driven questions.
+
+### Educational Philosophy
+
+This release marks an important shift in the project's mission.
+
+Rather than asking:
+
+> _"What should students know?"_
+
+the curriculum now asks:
+
+> _"How should students come to know it?"_
+
+Every lesson is designed to reveal patterns, invite curiosity, and guide learners toward discovering music for themselves.
+
+This version establishes the instructional voice that will guide all future curriculum development.
+
+## [v0.2.0] – Building the Foundation
 
 ### Curriculum
 
@@ -39,7 +87,7 @@ This project follows a milestone-based changelog rather than a strict software r
 
 ---
 
-## v0.1.0 — Project Begins
+## [v0.1.0] – Project Begins
 
 ### Curriculum
 
