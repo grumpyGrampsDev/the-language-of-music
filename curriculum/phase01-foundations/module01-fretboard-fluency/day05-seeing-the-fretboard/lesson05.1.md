@@ -1,4 +1,3 @@
-```markdown
 # Day 05.1 — Finding the Same Note Again
 
 > Phase I • Musical Foundations
@@ -225,4 +224,3 @@ Today you discovered that notes appear more than once.
 But another question immediately follows.
 
 **If notes repeat across the fretboard... can you predict where they'll appear before you even look?**
-```

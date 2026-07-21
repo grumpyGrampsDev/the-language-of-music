@@ -1,4 +1,3 @@
-````markdown
 # Day 05.2 — The Shape Was There All Along
 
 > Phase I • Musical Foundations
@@ -263,4 +262,3 @@ Today you discovered your first repeating shape on the guitar.
 But one final question remains.
 
 **If the fretboard is built from repeating notes and repeating patterns... is the entire neck actually one connected system?**
-````
