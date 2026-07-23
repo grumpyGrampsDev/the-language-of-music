@@ -26,7 +26,7 @@ Before we learn scales...
 
 Before we play songs...
 
-We need to answer one simple question.
+We need to make one connection.
 
 > **What are the names of the notes?**
 
@@ -36,41 +36,51 @@ We need to answer one simple question.
 
 Take a moment to look at your guitar.
 
-Don't play it yet.
+Not because you have never seen it before.
 
-Just look.
+Because after today, you may begin seeing something different.
 
-What do you notice?
+Every guitarist develops a relationship with the instrument.
 
-Most people would say something like:
+Some players see familiar chord shapes.
 
-- Six strings.
-- Metal frets.
-- Dot markers.
-- Tuning pegs.
-- A wooden body.
+Some see scale patterns.
 
-None of those answers are wrong.
+Some see places their hands already know how to move.
 
-But they all describe the instrument.
+Some hear sounds they cannot yet explain.
 
-Not the music.
+Some simply see the strings and frets that make everything possible.
 
-Now ask yourself a different question.
+None of those perspectives are wrong.
 
-**What is the guitar actually designed to produce?**
+They are all pieces of the same instrument.
 
-The answer is surprisingly simple.
+Today begins with a different question:
+
+**What are we actually looking at when we look at a guitar?**
+
+Beyond the wood.
+
+Beyond the strings.
+
+Beyond the frets.
+
+What is the guitar designed to help us create?
+
+The answer is surprisingly simple:
 
 > **Notes.**
 
-The strings don't matter by themselves.
+The strings, frets, and physical design of the guitar all matter.
 
-The frets don't matter by themselves.
+But they are not the final destination.
 
-They exist for one reason:
+They are the tools that allow us to create something larger.
 
-To help you create notes.
+Notes.
+
+And once we understand notes, we can begin understanding the relationships between them.
 
 That may seem obvious.
 
@@ -84,33 +94,23 @@ From this point forward, we'll try to think less like someone holding a guitar..
 
 ## A Thought Experiment
 
-Imagine you're playing with another musician.
+Imagine playing with another musician.
 
-They don't say,
+They don't say:
 
 > "Play the third fret."
 
-Instead, they say,
+Instead, they say:
 
 > "Play a G."
 
-Would you know where to find it?
+That is a different kind of instruction.
 
-Maybe.
+They are not telling you where to place your hand.
 
-Maybe not.
+They are telling you what musical idea they want to hear.
 
-But notice something.
-
-They didn't ask you for a fret.
-
-They asked you for a **note**.
-
-That tells us something important.
-
-Musicians think in note names.
-
-Today, we'll begin doing the same.
+The ability to connect those two things—the idea and the location—is one of the foundations of musical fluency.
 
 ---
 
@@ -265,7 +265,7 @@ Now, what do you see?
 
 Can you begin to imagine the fretboard as a collection of notes instead of a collection of frets?
 
-If another musician asked you to play a G, would your first thought now be the note instead of the fret?
+When another musician asks you to play a G, what does your mind naturally search for first: a sound, a shape, a position, or a note name? How might those different ways of thinking connect?
 
 ---
 
