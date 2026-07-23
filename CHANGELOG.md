@@ -38,6 +38,51 @@ This project exists to help them become fluent.
 
 ---
 
+## [v0.4.2] – Module 1 Learner-Centered Refinement
+
+### Curriculum
+
+- Completed a full learner-centered review of **Module 1 — Fretboard Fluency**.
+- Revised Days 1–5.3 to align with the updated principle of learner dignity:
+  > Never assume ignorance. Assume untapped knowledge.
+- Refined lesson language to respect both new learners and experienced musicians returning to foundational concepts.
+- Adjusted lessons to acknowledge existing musical intuition, patterns, and physical experience while introducing formal vocabulary and deeper understanding.
+
+### Learning Experience
+
+- Reframed lesson introductions to avoid implying that learners lack knowledge simply because they lack terminology.
+- Shifted language from correction-based teaching toward connection-based discovery.
+- Strengthened the distinction between:
+  - knowing a concept intuitively
+  - understanding the language used to describe that concept
+- Improved examples throughout Module 1 to help learners recognize that previous musical experience remains valuable.
+
+### Module 1 Project
+
+- Revised the Module 1 capstone project from **The Twelve-Note Tour** to **From Frets to Notes**.
+- Shifted the project focus from demonstrating memorized information to demonstrating changed perception and understanding.
+- Added reflection prompts centered on transformation, prediction, and mental models.
+- Added relationship-based questions to prepare learners for future interval and harmony concepts.
+- Added independence-focused completion criteria emphasizing the ability to ask better questions rather than simply find answers.
+
+### Educational Philosophy
+
+This refinement represents an important validation of the core philosophy of _The Language of Music_.
+
+The curriculum does not exist to replace what learners already know.
+
+It exists to connect existing experience, intuition, and vocabulary into a deeper understanding of music.
+
+A guitarist who knows shapes but not note names is not beginning from nothing.
+
+A musician who can hear relationships but cannot yet describe them is not missing musical ability.
+
+They are developing fluency in a language they have already begun learning.
+
+This release establishes learner dignity as not only a philosophical principle, but a practical standard applied throughout the learner experience.
+
+---
+
 ## [v0.4.0] – The First Transformation
 
 ### Curriculum
@@ -67,6 +112,8 @@ They finish by recognizing the fretboard as an organized musical system built fr
 Rather than simply acquiring information, learners leave Module 1 with their first durable mental model of the instrument.
 
 This release establishes the instructional blueprint that future modules will continue to build upon.
+
+---
 
 ## [v0.3.0] – Learning Through Discovery
 
@@ -115,6 +162,8 @@ the curriculum now asks:
 Every lesson is designed to reveal patterns, invite curiosity, and guide learners toward discovering music for themselves.
 
 This version establishes the instructional voice that will guide all future curriculum development.
+
+---
 
 ## [v0.2.0] – Building the Foundation
 
