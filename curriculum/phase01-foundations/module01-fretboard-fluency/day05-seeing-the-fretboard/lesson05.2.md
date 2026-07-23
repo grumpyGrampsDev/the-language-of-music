@@ -1,4 +1,4 @@
-# Day 05.2 — The Shape Was There All Along
+# Day 05.2 — The Pattern Was There All Along
 
 > Phase I • Musical Foundations
 >
@@ -14,7 +14,7 @@
 
 ## Looking Back
 
-Yesterday you made an important discovery.
+Yesterday you began seeing an important relationship.
 
 A note is not tied to a single fret.
 
@@ -89,7 +89,7 @@ D string — 5th fret
 Open G
 ```
 
-Each time, something familiar happens.
+Each time, you can test the same relationship.
 
 The note stays the same.
 
@@ -193,7 +193,9 @@ The answer has to do with how the guitar is tuned.
 
 One pair of neighboring strings behaves differently.
 
-We'll explore that later in the curriculum.
+The guitar has one intentional variation in its tuning.
+
+We'll explore why that exists later in the curriculum.
 
 For today, it's enough to recognize the pattern where it appears.
 
