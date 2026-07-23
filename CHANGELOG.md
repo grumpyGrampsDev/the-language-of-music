@@ -6,38 +6,6 @@ This project follows a milestone-based changelog rather than a strict software r
 
 ---
 
-## [v0.4.1] – Learner Dignity Refinement
-
-### Educational Philosophy
-
-- Added **Learner Dignity** as a foundational educational principle.
-- Formalized the belief that learners arrive with existing musical experience rather than starting from nothing.
-- Established the guiding principle:
-
-> Never assume ignorance. Assume untapped knowledge.
-
-### Curriculum Standards
-
-- Updated the Curriculum Guide to incorporate learner dignity into lesson design.
-- Expanded writing standards to ensure lessons connect with existing learner experience rather than framing concepts as corrections.
-- Added editorial criteria for preserving learner perspective during curriculum development.
-
-### Philosophy
-
-This refinement clarifies an important distinction within _The Language of Music_:
-
-The curriculum does not exist to replace what learners already know.
-
-It exists to connect intuition, experience, and vocabulary into a deeper understanding of music.
-
-A learner who has developed musical instincts without formal language has not failed to learn.
-
-They have begun learning the language.
-
-This project exists to help them become fluent.
-
----
-
 ## [v0.4.2] – Module 1 Learner-Centered Refinement
 
 ### Curriculum
@@ -80,6 +48,43 @@ A musician who can hear relationships but cannot yet describe them is not missin
 They are developing fluency in a language they have already begun learning.
 
 This release establishes learner dignity as not only a philosophical principle, but a practical standard applied throughout the learner experience.
+
+### Project Architecture
+
+- Restructured curriculum directories to separate lessons, projects, and solutions.
+- Established a scalable module organization for future curriculum expansion.
+
+---
+
+## [v0.4.1] – Learner Dignity Refinement
+
+### Educational Philosophy
+
+- Added **Learner Dignity** as a foundational educational principle.
+- Formalized the belief that learners arrive with existing musical experience rather than starting from nothing.
+- Established the guiding principle:
+
+> Never assume ignorance. Assume untapped knowledge.
+
+### Curriculum Standards
+
+- Updated the Curriculum Guide to incorporate learner dignity into lesson design.
+- Expanded writing standards to ensure lessons connect with existing learner experience rather than framing concepts as corrections.
+- Added editorial criteria for preserving learner perspective during curriculum development.
+
+### Philosophy
+
+This refinement clarifies an important distinction within _The Language of Music_:
+
+The curriculum does not exist to replace what learners already know.
+
+It exists to connect intuition, experience, and vocabulary into a deeper understanding of music.
+
+A learner who has developed musical instincts without formal language has not failed to learn.
+
+They have begun learning the language.
+
+This project exists to help them become fluent.
 
 ---
 
