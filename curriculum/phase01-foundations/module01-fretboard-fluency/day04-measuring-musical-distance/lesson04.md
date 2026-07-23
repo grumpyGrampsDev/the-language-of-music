@@ -14,17 +14,17 @@
 
 ## Looking Back
 
-So far, you've uncovered three important ideas.
+So far, you've begun connecting several important ideas.
 
 Music uses seven letter names.
 
-Those seven letters repeat in octaves.
+Those letters repeat in octaves.
 
-And between some of those letters are five additional notes, giving us twelve unique notes before the pattern begins again.
+Between those letters are five additional notes, giving us twelve unique notes before the pattern begins again.
 
-Along the way, you made another discovery.
+Along the way, you've also noticed something every guitarist experiences:
 
-Every time you move **one fret**, the pitch changes.
+Moving one fret changes the pitch.
 
 Not by a random amount.
 
@@ -48,9 +48,9 @@ Now move exactly **one fret higher** and play again.
 
 Listen carefully.
 
-The second note isn't dramatically different.
+The second note is higher.
 
-It's only slightly higher.
+But the distance between the two notes is small and consistent.
 
 Now move one more fret.
 
@@ -70,13 +70,11 @@ It's one of the fundamental building blocks of music.
 
 Musicians call the distance between one note and the very next note a **half step**.
 
-On a guitar, a half step is beautifully simple.
+On the guitar, this relationship becomes easy to see.
 
 > **One fret equals one half step.**
 
-That's true everywhere on the fretboard.
-
-No exceptions.
+For standard tuning, this relationship is consistent across the fretboard.
 
 Whether you're moving from:
 
@@ -176,19 +174,15 @@ Think of them as the ruler you'll use to measure musical distance.
 
 ## Seeing the Guitar Differently
 
-When you first picked up the guitar, the frets were probably just numbered pieces of metal.
+When you first learned the guitar, you may have thought of frets primarily as places where your fingers go.
 
-Now they're becoming something else.
+Now they are becoming something more.
 
-Each fret represents one half step.
+Each fret represents a musical distance.
 
-Each pair of frets represents one whole step.
+Each movement across the fretboard describes a relationship between notes.
 
-The fretboard isn't simply divided into frets.
-
-It's divided into precise musical distances.
-
-That's exactly how musicians think.
+This is one of the ways musicians begin to think about the instrument.
 
 ---
 
@@ -263,6 +257,4 @@ But one question remains.
 
 **Can you find every note on the fretboard without memorizing all 144 fret positions?**
 
-The answer is yes.
-
-And it begins by discovering that the guitar is built from repeating patterns.
+The answer begins by discovering that the guitar is built from repeating patterns.
