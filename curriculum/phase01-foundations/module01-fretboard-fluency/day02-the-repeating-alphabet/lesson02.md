@@ -14,7 +14,7 @@
 
 ## Looking Back
 
-Yesterday you discovered something surprisingly simple.
+Yesterday you began making an important connection.
 
 Music uses only seven letter names.
 
@@ -22,15 +22,17 @@ Music uses only seven letter names.
 A  B  C  D  E  F  G
 ```
 
+Those names are the foundation of everything that follows.
+
 You also found those notes on your guitar.
 
-By the end of the lesson, the fretboard had started to change.
+The fretboard began changing.
 
 Instead of seeing only frets...
 
 ...you began seeing notes.
 
-But that discovery should leave you with a new question.
+But that discovery creates a new question.
 
 If music only has seven letter names...
 
@@ -72,7 +74,7 @@ It was **E** again.
 
 That's curious.
 
-Why would music repeat a note instead of inventing a new one?
+Why does music return to a note it has already used instead of continuing with new letters?
 
 ---
 
@@ -123,13 +125,15 @@ Now play the 12th fret.
 
 Listen carefully.
 
-The two notes don't sound identical.
+The two notes don't have the same pitch.
 
 One is higher than the other.
 
 But they sound closely related.
 
 Almost as if they belong to the same family.
+
+They share the same musical identity.
 
 One is a higher version of the other.
 
@@ -221,7 +225,7 @@ They're connected.
 
 They're two versions of the same note.
 
-This is the first repeating pattern you've discovered on the guitar.
+This is the first repeating pattern you've made visible on the guitar.
 
 It won't be the last.
 
@@ -263,9 +267,11 @@ As you do, notice that every journey eventually returns to where it began.
 
 ## Reflection
 
-Before today's lesson, what did you think happened after G?
+Before today's lesson, how did you think about what happens after G?
 
-How has your understanding changed?
+Did you think of it as a new beginning, a repeated pattern, or something else?
+
+How does that understanding change the way you view the notes on the guitar?
 
 When you look at the open E string and the 12th fret now, do they feel like two unrelated notes...
 
