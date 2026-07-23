@@ -78,6 +78,24 @@ It is measured by how differently they think.
 
 # Core Educational Principles
 
+## Learner Dignity
+
+The learner should never be approached as an empty vessel waiting to be filled. Every musician arrives with existing knowledge, whether that knowledge comes from formal study, years of playing by ear, memorized shapes, physical patterns, listening experience, or intuition.
+
+The goal of this curriculum is not to reveal what the learner does not know. It is to bring awareness and language to what the learner may already understand instinctively.
+
+**Never assume ignorance. Assume untapped knowledge.**
+
+A guitarist who has played for years but cannot name the notes on the fretboard is not starting from nothing. They may already understand relationships between sounds, recognize patterns, feel tension and resolution, or navigate familiar shapes. The work is to connect those experiences to the underlying language of music.
+
+Lessons should avoid framing concepts as corrections of a learner's shortcomings. Instead, they should invite discovery:
+
+- “You may already use this concept intuitively. Now we will give it a name and make it conscious.”
+- “You already see something when you look at the neck. Can you translate what you see into the language of notes?”
+- “You already hear these relationships. Now we will learn how to describe them.”
+
+The learner should leave each lesson feeling that their previous experience was valuable, not wasted. A guitarist who has spent years memorizing shapes was not learning incorrectly; they were developing a vocabulary without yet having the grammar. This curriculum exists to bring awareness and language to what they already understand instinctively, connecting those experiences into a larger understanding of music.
+
 ## Music is a Language
 
 Music is not a collection of disconnected facts.

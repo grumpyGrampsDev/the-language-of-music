@@ -6,6 +6,68 @@ This project follows a milestone-based changelog rather than a strict software r
 
 ---
 
+## [v0.4.1] – Learner Dignity Refinement
+
+### Educational Philosophy
+
+- Added **Learner Dignity** as a foundational educational principle.
+- Formalized the belief that learners arrive with existing musical experience rather than starting from nothing.
+- Established the guiding principle:
+
+> Never assume ignorance. Assume untapped knowledge.
+
+### Curriculum Standards
+
+- Updated the Curriculum Guide to incorporate learner dignity into lesson design.
+- Expanded writing standards to ensure lessons connect with existing learner experience rather than framing concepts as corrections.
+- Added editorial criteria for preserving learner perspective during curriculum development.
+
+### Philosophy
+
+This refinement clarifies an important distinction within _The Language of Music_:
+
+The curriculum does not exist to replace what learners already know.
+
+It exists to connect intuition, experience, and vocabulary into a deeper understanding of music.
+
+A learner who has developed musical instincts without formal language has not failed to learn.
+
+They have begun learning the language.
+
+This project exists to help them become fluent.
+
+---
+
+## [v0.4.0] – The First Transformation
+
+### Curriculum
+
+- Completed **Module 1 – Fretboard Fluency**, the first fully realized instructional module in _The Language of Music_.
+- Added **Day 05 – Seeing the Fretboard**, completing the learner's progression from identifying notes to recognizing the fretboard as one connected musical system.
+- Added the Module 1 capstone project, **From Frets to Notes**, designed to reinforce understanding through explanation, prediction, and reflection rather than memorization.
+
+### Learning Experience
+
+- Completed the curriculum's first full instructional cycle:
+  - Guided discovery lessons
+  - Reflection
+  - Language of Music Principles
+  - Project-based demonstration of understanding
+- Refined lesson sequencing so that each lesson naturally creates the central question answered by the next.
+- Strengthened continuity throughout Module 1 with consistent "Looking Back" and "Looking Ahead" sections.
+
+### Educational Milestone
+
+Module 1 represents the first complete conceptual transformation within _The Language of Music_.
+
+Learners begin by seeing the guitar as six strings stretched across numbered frets.
+
+They finish by recognizing the fretboard as an organized musical system built from repeating notes, consistent musical relationships, and predictable patterns.
+
+Rather than simply acquiring information, learners leave Module 1 with their first durable mental model of the instrument.
+
+This release establishes the instructional blueprint that future modules will continue to build upon.
+
 ## [v0.3.0] – Learning Through Discovery
 
 ### Overview

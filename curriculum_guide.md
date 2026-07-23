@@ -37,6 +37,51 @@ Whenever a writing decision is unclear, return to the philosophy before inventin
 
 ---
 
+# Learner Dignity in Practice
+
+Every lesson should respect the experience the learner already brings.
+
+The learner is not an empty vessel waiting to be filled.
+
+They may arrive with:
+
+- years of playing experience
+- songs they have learned
+- patterns they recognize
+- techniques they have developed
+- musical instincts they trust
+- sounds they can identify but cannot yet explain
+
+The purpose of this curriculum is not to replace that experience.
+
+It is to connect it.
+
+**Never assume ignorance. Assume untapped knowledge.**
+
+A learner who knows shapes but not the theory behind them is not starting from nothing.
+
+A learner who plays by ear but cannot name what they hear is not lacking musical understanding.
+
+A learner who has memorized patterns without understanding their relationships has still developed valuable musical experience.
+
+The curriculum exists to bring awareness, vocabulary, and structure to knowledge that may already exist intuitively.
+
+Lessons should avoid framing concepts as corrections of failure.
+
+Instead, they should reveal connections:
+
+Poor framing:
+
+> "You probably don't know this yet."
+
+Preferred framing:
+
+> "You may already use this idea intuitively. Now let's give it a name and understand why it works."
+
+The learner should finish each lesson feeling that their previous experience was valuable, while gaining new tools to understand and express what they already sensed.
+
+---
+
 # The Goal of Every Lesson
 
 Every lesson should answer one meaningful question while naturally creating the next.
@@ -171,7 +216,7 @@ The learner should leave excited rather than finished.
 
 Write with calm confidence.
 
-Assume the learner is intelligent but encountering the material for the first time.
+Assume the learner is intelligent, curious, and bringing valuable experience, while encountering this specific concept for the first time.
 
 Avoid talking down to the learner.
 
@@ -350,6 +395,7 @@ Before publishing a lesson, ask:
 - Does the reflection measure transformation?
 - Is the Language of Music Principle memorable?
 - Does this lesson sound like every other lesson in the curriculum?
+- Does this lesson respect the learner's previous experience while introducing a new way of seeing?
 
 If any answer is "no," revise before publishing.
 
