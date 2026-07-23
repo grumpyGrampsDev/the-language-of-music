@@ -22,7 +22,7 @@ Those notes repeat over and over in octaves.
 
 You also learned that every fret represents one half step, giving the guitar a consistent and predictable structure.
 
-At this point, you can identify notes along one string.
+At this point, you can begin recognizing how notes appear along one string.
 
 But that naturally leads to another question.
 
@@ -56,57 +56,57 @@ Let's find out.
 
 ## An Experiment
 
-Play the open A string.
+Before we discover anything new, think about something you may already do when you tune your guitar.
 
-Now play the 5th fret of the Low E string.
+When you tune your strings, you often compare one string to another.
 
-Listen carefully.
+For example:
 
-They don't sound exactly the same.
+- The 5th fret of the Low E string is used to tune the open A string.
+- The 5th fret of the A string is used to tune the open D string.
+- The 5th fret of the D string is used to tune the open G string.
 
-One is slightly lower.
+But why does this work?
 
-One is slightly higher.
+Why can two different strings, played in two different places, create the same note?
 
-But do they feel related?
-
-They should.
-
-Because they share the same name.
-
-They're both **A**.
-
-You have just found the same note in two different places.
-
----
-
-## Looking for More
-
-Let's try another one.
+Let's look more closely.
 
 Play:
 
-- Open D string.
-- 5th fret of the A string.
+- Open A string
 
-Both are **D**.
+Now play:
 
-Now try:
+- 5th fret of the Low E string
 
-- Open G string.
-- 5th fret of the D string.
+Both are A.
 
-Again...
+You have already used this relationship every time you have tuned your guitar.
 
-The same note.
-
-Different location.
+Now let's see what this means.
 
 ---
 
 ## What Just Happened?
 
-Until now, it was easy to think of a note as a place.
+## What Just Happened?
+
+Listen carefully.
+
+The location changed.
+
+The note did not.
+
+Until now, you may have naturally connected notes with places on the fretboard.
+
+That connection is useful.
+
+But it is only part of the picture.
+
+A fretboard location tells you where a note can be found.
+
+It does not define what the note is.
 
 > G is the 3rd fret.
 
@@ -191,7 +191,7 @@ For each pair:
 
 ## Reflection
 
-At the beginning of today's lesson, where did you think the note A lived?
+At the beginning of today's lesson, where did you think the note A existed?
 
 Where does it live now?
 

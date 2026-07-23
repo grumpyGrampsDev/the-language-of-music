@@ -182,7 +182,7 @@ Each fret represents a musical distance.
 
 Each movement across the fretboard describes a relationship between notes.
 
-This is one of the ways musicians begin to think about the instrument.
+This is one of the ways musicians begin to think about the instrument musically.
 
 ---
 
