@@ -8,16 +8,14 @@
 
 ## Project Goal
 
-Over the past five days, you've learned far more than the names of a few notes.
+During this project, you will revisit six discoveries:
 
-You've discovered that:
-
-- Music has an alphabet.
-- That alphabet repeats.
-- There are twelve unique notes before the pattern begins again.
-- Musical distance is measured consistently.
-- Notes are identities rather than locations.
-- Those identities repeat in recognizable patterns.
+1. Music has an alphabet.
+2. That alphabet repeats.
+3. Twelve notes exist before the pattern repeats.
+4. Musical distance has consistent measurements.
+5. Notes are identities, not locations.
+6. The fretboard contains repeating relationships.
 
 Today is not about learning something new.
 
@@ -147,6 +145,14 @@ ____________________________________________________________
 ____________________________________________________________
 ```
 
+### Why are relationships between notes more useful than memorizing individual locations?
+
+```
+____________________________________________________________
+
+____________________________________________________________
+```
+
 Don't aim for perfect definitions.
 
 Aim for genuine understanding.
@@ -242,6 +248,7 @@ Your Module 1 project is complete when you can honestly say:
 - [ ] I can predict where some notes repeat before I play them.
 - [ ] I rely more on patterns than counting.
 - [ ] I see the fretboard differently than I did when I started.
+- [ ] I can ask questions about the fretboard instead of only searching for answers.
 
 ---
 
