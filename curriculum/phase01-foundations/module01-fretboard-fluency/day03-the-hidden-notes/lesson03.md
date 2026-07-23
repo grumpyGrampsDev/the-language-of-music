@@ -14,27 +14,25 @@
 
 ## Looking Back
 
-Over the last two lessons, you've discovered two important ideas.
+Over the last two lessons, you've begun connecting several important ideas.
 
-First, music uses only seven letter names.
+Music uses seven natural letter names.
 
-```
-A  B  C  D  E  F  G
-```
+A B C D E F G
 
-Then you discovered that those letters repeat.
+Those letters repeat in octaves.
 
-The note at the 12th fret wasn't a new note.
+The note at the 12th fret wasn't a new letter.
 
 It was another E—one octave higher.
 
-So now we have a puzzle.
+But now another question appears.
 
-If there are only seven note names...
+If music uses seven letter names...
 
-Why are there twelve different notes before the octave repeats?
+Why does the guitar contain twelve different notes before the pattern repeats?
 
-Where did the other five come from?
+What exists between the letters?
 
 ---
 
@@ -66,7 +64,7 @@ If every letter were evenly spaced, those distances should be the same.
 
 But they aren't.
 
-Something is happening between some notes...
+Something is happening between some notes that we haven't named yet...
 
 ...and not between others.
 
@@ -82,7 +80,7 @@ Only one thing.
 
 The pitch becomes just a little higher.
 
-Every single fret raises the pitch by exactly the same amount.
+Every fret raises the pitch by the same musical distance.
 
 That means every fret represents its own note.
 
