@@ -14,7 +14,7 @@
 
 ## Looking Back
 
-Over the last six lessons, your understanding of the guitar has changed dramatically.
+Over the last six lessons, you have begun seeing the guitar differently.
 
 At first, the fretboard probably looked like rows of strings separated by numbered frets.
 
@@ -85,7 +85,7 @@ The fretboard isn't random.
 
 It couldn't be.
 
-Every note is exactly where it needs to be because every musical relationship remains consistent.
+Every note appears where it does because the same musical relationships repeat across the instrument.
 
 ---
 
@@ -107,9 +107,9 @@ Connections.
 
 The guitar works the same way.
 
-Beginners often see positions.
+Early in the journey, it is natural to see positions.
 
-Experienced musicians see relationships.
+As understanding grows, those positions begin connecting into relationships.
 
 The notes haven't moved.
 
@@ -140,9 +140,7 @@ Not because you've memorized dozens of facts...
 
 ## Seeing Like a Musician
 
-Professional musicians don't memorize every possible note location independently.
-
-That would be overwhelming.
+Musicians rarely think of every note location as an isolated fact.
 
 Instead, they recognize patterns.
 
@@ -210,7 +208,7 @@ By the end of today's lesson, you should understand that:
 - Every musical relationship repeats consistently across the instrument.
 - Recognizing patterns is more powerful than memorizing positions.
 - Prediction is becoming a natural part of learning the guitar.
-- Your understanding of the instrument has fundamentally changed since Day 1.
+- Your understanding of the instrument has changed since Day 1.
 
 ---
 
