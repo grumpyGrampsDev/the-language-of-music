@@ -235,6 +235,32 @@ Whenever possible:
 
 The writing should feel like guidance from a thoughtful mentor rather than a lecture from an instructor.
 
+# Paragraph Rhythm
+
+Format ideas, not sentences.
+
+Paragraph breaks should reflect changes in thought rather than simply creating vertical spacing.
+
+Most teaching should be written in natural paragraphs that develop one complete idea. Group related sentences together so learners can follow the flow of thought without unnecessary interruption.
+
+Reserve short, isolated paragraphs for moments that deserve emphasis, such as:
+
+- a meaningful question
+- a surprising discovery
+- a conceptual shift
+- an important realization
+- a deliberate pause before introducing a new idea
+
+When every sentence stands alone, nothing stands out.
+
+Use visual spacing intentionally. The rhythm of the page should support the rhythm of discovery.
+
+Well-placed paragraphs create continuity.
+
+Well-placed pauses create emphasis.
+
+Both are essential.
+
 ---
 
 # Vocabulary
@@ -396,6 +422,7 @@ Before publishing a lesson, ask:
 - Is the Language of Music Principle memorable?
 - Does this lesson sound like every other lesson in the curriculum?
 - Does this lesson respect the learner's previous experience while introducing a new way of seeing?
+- Does the page's visual rhythm support the learner's thinking by grouping related ideas and reserving isolated sentences for emphasis?
 
 If any answer is "no," revise before publishing.
 
