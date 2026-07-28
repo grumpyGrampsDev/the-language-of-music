@@ -6,7 +6,9 @@
 
 This guide defines the standards for every lesson in **The Language of Music**.
 
-It exists to ensure that every lesson, regardless of topic, contributes to a single, unified educational experience.
+Its purpose is not to prescribe a rigid lesson template.
+
+Its purpose is to ensure that every lesson contributes to one coherent educational experience.
 
 A lesson should not merely communicate information.
 
@@ -16,6 +18,8 @@ If multiple authors contribute to this curriculum, a learner should never be abl
 
 Consistency is part of the curriculum.
 
+Whenever a writing decision is unclear, return first to **PHILOSOPHY.md**. This guide explains how that philosophy becomes practical lesson design.
+
 ---
 
 # Educational Philosophy in Practice
@@ -24,16 +28,19 @@ Every lesson should embody the principles established in **PHILOSOPHY.md**.
 
 In practice, this means:
 
-- Teach music before guitar whenever possible.
+- Teach music before guitar whenever practical.
 - Teach understanding before memorization.
-- Discovery should precede explanation whenever practical.
+- Recognition should precede explanation.
+- Discovery should precede formal instruction whenever practical.
 - Build one major conceptual transformation per lesson.
 - Prefer relationships over isolated facts.
 - Encourage curiosity rather than passive consumption.
-- Help learners develop mental models instead of memorizing procedures.
-- End every lesson with a learner who sees music differently than when they began.
+- Build mental models instead of teaching procedures.
+- End every lesson with a learner who understands music differently than when they began.
 
-Whenever a writing decision is unclear, return to the philosophy before inventing a new approach.
+Every lesson should feel like a natural continuation of the one before it.
+
+The learner should experience one continuous conversation rather than a collection of disconnected topics.
 
 ---
 
@@ -52,6 +59,10 @@ They may arrive with:
 - musical instincts they trust
 - sounds they can identify but cannot yet explain
 
+None of those experiences are wasted.
+
+They are the starting point.
+
 The purpose of this curriculum is not to replace that experience.
 
 It is to connect it.
@@ -64,11 +75,11 @@ A learner who plays by ear but cannot name what they hear is not lacking musical
 
 A learner who has memorized patterns without understanding their relationships has still developed valuable musical experience.
 
-The curriculum exists to bring awareness, vocabulary, and structure to knowledge that may already exist intuitively.
+The curriculum exists to bring awareness, vocabulary, and structure to understanding that may already exist intuitively.
 
-Lessons should avoid framing concepts as corrections of failure.
+Lessons should never frame new ideas as corrections of failure.
 
-Instead, they should reveal connections:
+Instead, they should reveal connections.
 
 Poor framing:
 
@@ -78,7 +89,25 @@ Preferred framing:
 
 > "You may already use this idea intuitively. Now let's give it a name and understand why it works."
 
-The learner should finish each lesson feeling that their previous experience was valuable, while gaining new tools to understand and express what they already sensed.
+Learners should leave each lesson feeling that their previous experience mattered—and that they now understand it more deeply.
+
+---
+
+# Before You Write
+
+Every lesson begins long before the first sentence.
+
+Before writing, answer four questions.
+
+1. What does the learner probably already recognize?
+
+2. What meaningful question grows naturally from that experience?
+
+3. What single discovery should change their understanding?
+
+4. What language will eventually describe that discovery?
+
+If these questions cannot be answered clearly, the lesson is probably not ready to be written.
 
 ---
 
@@ -110,105 +139,73 @@ Smaller lessons with clear outcomes are almost always stronger than larger lesso
 
 ---
 
-# The Recommended Lesson Rhythm
+# Lesson Rhythm
 
-While every lesson is unique, most should follow this natural progression.
+While every lesson is unique, every lesson should follow the same underlying rhythm.
 
-## 1. Connect
+Learners should rarely notice this structure.
 
-Begin with what the learner already understands.
+It exists to guide the author, not to become a formula visible to the reader.
 
-Remind them where they have been before introducing where they are going.
+```
+Previous Understanding
+        ↓
+Meaningful Question
+        ↓
+Observation
+        ↓
+Experiment
+        ↓
+Discovery
+        ↓
+Language
+        ↓
+Application
+        ↓
+Reflection
+        ↓
+Language of Music Principle
+        ↓
+Next Question
+```
 
----
+Good lesson structure should be invisible to the learner.
 
-## 2. Question
-
-Introduce a meaningful question.
-
-The learner should understand why today's lesson matters before any explanation begins.
-
-Questions create curiosity.
-
-Curiosity creates attention.
-
----
-
-## 3. Experiment
-
-Whenever practical, invite the learner to observe, predict, or explore before explaining.
-
-Experiments should be simple.
-
-They exist to create firsthand experience.
-
-The learner should feel like they are discovering something—not merely being told something.
-
----
-
-## 4. Discover
-
-Help the learner recognize the emerging pattern.
-
-This is the "aha!" moment.
-
-Avoid naming the concept too early.
-
-Allow the learner to experience recognition before introducing vocabulary.
+They should experience curiosity, not curriculum.
 
 ---
 
-## 5. Explain
+# Vocabulary
 
-Only now introduce terminology, formal definitions, or theory.
+Introduce terminology only after the learner has experienced the idea it describes.
 
-Explanation should organize understanding that already exists.
+Poor sequence:
 
-Vocabulary should name discoveries rather than replace them.
+```
+Definition
 
----
+↓
 
-## 6. Apply
+Example
+```
 
-Give the learner opportunities to use the idea in meaningful ways.
+Preferred sequence:
 
-Practice should reinforce understanding, not repetition alone.
+```
+Observation
 
-Whenever possible, application should involve prediction rather than copying.
+↓
 
----
+Discovery
 
-## 7. Reflect
+↓
 
-Reflection measures transformation.
+Vocabulary
+```
 
-Rather than asking:
+Names are easier to remember when they describe something the learner already recognizes.
 
-> "Did you understand?"
-
-Ask:
-
-> "How has your thinking changed?"
-
-Reflection is part of learning—not something added afterward.
-
----
-
-## 8. Language of Music Principle
-
-Every lesson should conclude with one memorable principle.
-
-This should express the deepest idea of the lesson in one or two sentences.
-
-These principles become the learner's growing philosophy of music.
-
----
-
-## 9. Looking Ahead
-
-End by creating the next question.
-
-The learner should leave excited rather than finished.
+Vocabulary should organize understanding rather than create it.
 
 ---
 
@@ -216,7 +213,7 @@ The learner should leave excited rather than finished.
 
 Write with calm confidence.
 
-Assume the learner is intelligent, curious, and bringing valuable experience, while encountering this specific concept for the first time.
+Assume the learner is intelligent, curious, and bringing valuable experience, while encountering this particular concept for the first time.
 
 Avoid talking down to the learner.
 
@@ -226,18 +223,21 @@ Favor clarity over cleverness.
 
 Favor understanding over information.
 
-Whenever possible:
+Whenever practical:
 
 - Show before telling.
 - Ask before answering.
 - Demonstrate before defining.
 - Observe before explaining.
+- Connect before introducing.
 
 The writing should feel like guidance from a thoughtful mentor rather than a lecture from an instructor.
 
+---
+
 # Paragraph Rhythm
 
-Format ideas, not sentences.
+Paragraphs should organize ideas, not simply separate sentences.
 
 Paragraph breaks should reflect changes in thought rather than simply creating vertical spacing.
 
@@ -253,9 +253,11 @@ Reserve short, isolated paragraphs for moments that deserve emphasis, such as:
 
 When every sentence stands alone, nothing stands out.
 
-Use visual spacing intentionally. The rhythm of the page should support the rhythm of discovery.
+Use visual spacing intentionally.
 
-Well-placed paragraphs create continuity.
+The rhythm of the page should support the rhythm of discovery.
+
+Well-developed paragraphs create continuity.
 
 Well-placed pauses create emphasis.
 
@@ -263,37 +265,9 @@ Both are essential.
 
 ---
 
-# Vocabulary
-
-Introduce new terminology only after the learner has experienced the idea.
-
-Poor sequence:
-
-Definition
-
-↓
-
-Example
-
-Preferred sequence:
-
-Observation
-
-↓
-
-Discovery
-
-↓
-
-Vocabulary
-
-Learners remember words that explain experiences far better than words presented in isolation.
-
----
-
 # Practice
 
-Practice should reinforce understanding—not test memory.
+Practice should reinforce understanding rather than test memory.
 
 Whenever practical, replace traditional drills with experiments.
 
@@ -307,7 +281,7 @@ Consider:
 
 Instead of asking learners to repeat procedures, encourage them to predict outcomes before checking their answers.
 
-Prediction strengthens understanding.
+Prediction strengthens understanding because it requires the learner to apply a mental model rather than recall an isolated fact.
 
 ---
 
@@ -323,11 +297,13 @@ is ready to learn.
 
 Never answer questions the learner has not yet had a chance to ask.
 
+Whenever possible, let curiosity create the need for explanation.
+
 ---
 
 # Musical Relationships
 
-Whenever possible, teach relationships instead of objects.
+Whenever practical, teach relationships instead of objects.
 
 Instead of teaching:
 
@@ -342,7 +318,11 @@ Teach:
 - where it comes from
 - where it appears again
 
-Music becomes dramatically easier when learners recognize relationships rather than isolated information.
+Facts matter.
+
+Relationships give facts meaning.
+
+The more relationships learners recognize, the less isolated information they must memorize.
 
 ---
 
@@ -370,7 +350,9 @@ Trust the music.
 
 # Reflection Questions
 
-Good reflection questions measure transformation.
+Reflection measures transformation.
+
+Good reflection questions help learners notice changes in their thinking.
 
 Examples:
 
@@ -382,11 +364,13 @@ Examples:
 
 Avoid questions that merely ask learners to repeat definitions.
 
+Reflection should help learners recognize that they now understand something differently than when the lesson began.
+
 ---
 
 # Language of Music Principles
 
-Each lesson ends with a principle.
+Each lesson concludes with one principle.
 
 These principles should be:
 
@@ -414,15 +398,17 @@ Before publishing a lesson, ask:
 - Does this lesson create one clear conceptual transformation?
 - Does it answer one meaningful question?
 - Does it naturally create the next question?
+- Does it acknowledge something the learner may already recognize?
 - Does discovery come before explanation?
 - Is vocabulary introduced after understanding?
+- Does vocabulary describe recognition rather than create it?
 - Is practice reinforcing understanding rather than memorization?
-- Does the learner actively participate?
+- Does the learner actively participate in discovery?
 - Does the reflection measure transformation?
 - Is the Language of Music Principle memorable?
-- Does this lesson sound like every other lesson in the curriculum?
 - Does this lesson respect the learner's previous experience while introducing a new way of seeing?
-- Does the page's visual rhythm support the learner's thinking by grouping related ideas and reserving isolated sentences for emphasis?
+- Does the page's visual rhythm support the learner's thinking?
+- Does this lesson sound like every other lesson in the curriculum?
 
 If any answer is "no," revise before publishing.
 

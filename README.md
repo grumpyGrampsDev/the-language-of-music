@@ -2,163 +2,123 @@
 
 > _Music is a language._
 >
-> Every language has an alphabet, patterns, relationships, structure, and expression.
+> Like every language, it has an alphabet, patterns, relationships, structure, and expression.
 >
-> Learning music should be no different.
+> Learning music is more than collecting information. It is learning to understand, speak, and eventually think in that language.
 
 ---
 
 ## What Is This?
 
-**The Language of Music** is an open-source music curriculum built around a simple idea:
+**The Language of Music** is an open-source curriculum that teaches music as a language through understanding rather than memorization.
 
-**Understanding should come before memorization.**
+The guitar is our laboratory, but the subject is music itself.
 
-Many musicians spend years collecting chords, scales, songs, and exercises without ever developing a clear understanding of how those pieces fit together.
+Rather than asking learners to collect isolated facts, shapes, and techniques, the curriculum helps them recognize the relationships that connect those experiences into a coherent understanding of music.
 
-This project takes a different approach.
+The goal is not simply to play more.
 
-Rather than treating music as a collection of techniques to memorize, it teaches music as a language to understand.
-
-The guitar serves as our laboratory, but the subject is music itself.
+It is to understand more.
 
 ---
 
-## Why This Project Exists
+## The Idea
 
-Traditional music instruction often asks students to reproduce before they understand.
+Every musician brings something to the instrument.
 
-A student may learn dozens of chords without knowing how they are built.
+Some have years of formal lessons.
 
-They may memorize scale patterns without understanding why those notes belong together.
+Some have learned entirely by ear.
 
-They may become technically capable while still feeling uncertain about what they are actually playing.
+Some know countless songs but struggle to explain what they're hearing.
 
-If you've ever found yourself thinking:
+Others understand theory but have difficulty applying it.
 
-> _"I can play music, but I don't really understand it."_
+None of those experiences are wasted.
 
-then you've experienced the problem this curriculum was created to solve.
+This curriculum begins with the assumption that meaningful understanding often starts by recognizing something you've already experienced.
 
-The goal is not simply to help you play more.
+Its purpose is not to replace what you know.
 
-The goal is to help music make sense.
-
----
-
-## A Different Philosophy
-
-The Language of Music is guided by a few enduring principles.
-
-- **Music is a language.**
-- **Understanding comes before memorization.**
-- **Pattern recognition is more valuable than isolated facts.**
-- **Technique exists to serve expression.**
-- **Every lesson should change how the learner thinks.**
-- **Curiosity should drive progression.**
-
-These ideas shape every lesson in the curriculum.
-
-The objective is not to fill students with information.
-
-It is to develop musicians who understand what they are hearing, seeing, and playing.
+It is to connect it.
 
 ---
 
-## What Makes This Different?
+## How the Curriculum Works
 
-This curriculum is not organized around a checklist of topics.
+Every lesson is built around a single conceptual transformation.
 
-Instead, it is organized around a sequence of conceptual transformations.
+Rather than asking,
 
-Rather than asking:
+> **"What information should the learner receive?"**
 
-> **"What should the student learn today?"**
+it asks,
 
-it asks:
+> **"How should the learner think differently by the end of this lesson?"**
 
-> **"How should the student think differently by the end of today?"**
+Lessons are designed as a continuous conversation.
 
-That difference influences every design decision.
+Each answers one meaningful question while naturally creating the next.
 
-Students are encouraged to build accurate mental models before memorizing patterns.
-
-Concepts are introduced because they answer meaningful questions, not simply because they traditionally appear next in a book.
-
-Every lesson is designed to naturally create the question that the following lesson answers.
-
-Learning becomes a conversation instead of a checklist.
+Over time, individual discoveries connect into durable mental models that learners can carry into every new piece of music they encounter.
 
 ---
 
 ## The Journey
 
-The curriculum is organized into five phases.
+The curriculum develops through four broad stages.
 
-### Phase I — Foundations
+### Phase I — Musical Foundations
 
-Learn the language of music by understanding notes, patterns, and relationships.
+Learn the language itself.
 
-The instrument is no longer a mystery.
+Discover notes, patterns, and relationships that make music possible.
 
----
+### Phase II — Musical Fluency
 
-### Phase II — Navigation
+Recognize musical ideas across the instrument with growing confidence and ease.
 
-Develop confidence moving across the entire fretboard.
+### Phase III — Musical Expression
 
-The instrument is no longer a maze.
+Use harmony, rhythm, articulation, dynamics, tone, and technique intentionally.
 
----
+### Phase IV — Musical Independence
 
-### Phase III — Harmony
+Continue learning without depending on the curriculum.
 
-Discover why notes belong together and why music feels the way it does.
+Analyze.
 
-Music is no longer coincidence.
+Create.
 
----
+Improvise.
 
-### Phase IV — Expression
+Teach.
 
-Connect understanding with performance through rhythm, phrasing, touch, dynamics, and tone.
-
-Music becomes communication.
-
----
-
-### Phase V — Musicianship
-
-Develop the skills needed to continue learning independently for a lifetime.
-
-Growth no longer depends on the curriculum.
+The curriculum succeeds when it is no longer needed.
 
 ---
 
 ## Project Goals
 
-This project aims to help learners:
+The Language of Music exists to help learners:
 
-- Think in notes rather than fret numbers.
-- Recognize patterns instead of memorizing isolated shapes.
-- Understand harmony rather than simply recalling chord names.
-- Develop technique that serves musical expression.
-- Learn new music more efficiently through understanding.
-- Continue growing long after the curriculum is complete.
+- Understand music rather than simply reproduce it.
+- Recognize relationships instead of memorizing isolated patterns.
+- Build durable mental models instead of disconnected facts.
+- Develop technique in service of musical expression.
+- Continue learning independently long after the curriculum ends.
 
-Success is not measured by how many concepts are covered.
-
-It is measured by how clearly the learner understands music.
+Success is measured not by how much information has been covered, but by how differently the learner understands music.
 
 ---
 
 ## Open Source
 
-The Language of Music is an open-source educational project.
+This project is freely available and open source.
 
-The long-term vision is to create a freely available curriculum that helps anyone develop genuine musical understanding, regardless of background, experience, or financial resources.
+Its long-term vision is to make a thoughtful, learner-centered music education accessible to anyone who wants to understand music more deeply.
 
-Suggestions, thoughtful discussion, and contributions that strengthen the educational philosophy of the project are always welcome.
+Suggestions, discussion, and contributions that strengthen the educational philosophy or improve the learner experience are always welcome.
 
 ---
 
@@ -170,20 +130,28 @@ PHILOSOPHY.md
 CURRICULUM_ROADMAP.md
 CURRICULUM_GUIDE.md
 curriculum/
-    phase-01/
-    phase-02/
-    phase-03/
-    phase-04/
-    phase-05/
 resources/
 ```
 
-As the project grows, the curriculum will expand while remaining grounded in the principles established by the philosophy, roadmap, and curriculum guide.
+The governing documents define the philosophy, architecture, and writing standards that guide every lesson in the curriculum.
+
+---
+
+## Start Here
+
+If you're new to the project, these documents provide the best introduction.
+
+1. **README.md** — Project overview
+2. **PHILOSOPHY.md** — Educational philosophy
+3. **CURRICULUM_ROADMAP.md** — Curriculum architecture
+4. **CURRICULUM_GUIDE.md** — Lesson design and writing standards
+
+Then begin with **Module 1 — Fretboard Fluency**.
 
 ---
 
 ## An Invitation
 
-Whether you're picking up an instrument for the first time or returning after years away, I hope this project helps you see music differently than you did yesterday.
+Whether you're picking up a guitar for the first time or returning after years away, I hope this project helps you understand music a little more deeply than you did yesterday.
 
-If you finish this curriculum understanding music more deeply, asking better questions, and feeling equipped to continue learning on your own, then **The Language of Music** will have accomplished exactly what it was created to do.
+If, somewhere along the way, you begin noticing patterns before they're explained, asking questions the curriculum hasn't asked yet, and discovering ideas on your own, then **The Language of Music** is doing exactly what it was created to do.

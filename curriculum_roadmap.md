@@ -10,7 +10,9 @@ It is not simply a list of topics.
 
 It is a sequence of conceptual transformations.
 
-Each lesson should answer one meaningful question while naturally creating the next.
+Each lesson builds upon understanding the learner already possesses, helping familiar musical experiences become connected ideas.
+
+Every lesson should answer one meaningful question while naturally creating the next.
 
 The curriculum should feel less like climbing a ladder and more like following a trail of discoveries.
 
@@ -18,15 +20,23 @@ The curriculum should feel less like climbing a ladder and more like following a
 
 # The Learner's Journey
 
-The curriculum develops in four broad stages.
+The curriculum develops through four broad stages.
+
+Each stage answers a different question.
+
+Together, they guide the learner from recognition to independence.
+
+---
 
 ## Phase I — Musical Foundations
 
 _"What is music?"_
 
-Students learn the language itself.
+Learners discover the language itself.
 
-Before they can play fluently, they must understand the alphabet, vocabulary, and relationships that make music possible.
+They learn the alphabet, vocabulary, patterns, and relationships that make music possible.
+
+The guitar serves as a laboratory for exploring ideas that exist beyond any single instrument.
 
 ---
 
@@ -34,9 +44,13 @@ Before they can play fluently, they must understand the alphabet, vocabulary, an
 
 _"How does music work?"_
 
-Students begin recognizing patterns throughout the instrument and hearing relationships rather than isolated notes.
+Learners begin recognizing relationships throughout the instrument.
 
-This is where the guitar begins to make sense.
+Patterns replace isolated facts.
+
+Recognition gradually replaces memorization.
+
+The guitar begins to feel organized rather than overwhelming.
 
 ---
 
@@ -44,19 +58,19 @@ This is where the guitar begins to make sense.
 
 _"How do musicians communicate?"_
 
-Students learn to use harmony, rhythm, dynamics, articulation, phrasing, tone, and technique intentionally.
+Learners begin making intentional musical choices.
 
-Music becomes expressive rather than mechanical.
+Harmony, rhythm, articulation, phrasing, dynamics, tone, and technique become tools for expressing musical ideas rather than skills practiced in isolation.
 
 ---
 
 ## Phase IV — Musical Independence
 
-_"How do I continue learning forever?"_
+_"How do I continue learning?"_
 
 The curriculum gradually removes itself.
 
-Students analyze songs independently.
+Learners analyze songs independently.
 
 Learn by ear.
 
@@ -66,7 +80,7 @@ Compose.
 
 Teach.
 
-Continue learning without relying on structured instruction.
+Continue discovering long after the final lesson.
 
 The curriculum succeeds when it is no longer needed.
 
@@ -76,13 +90,13 @@ The curriculum succeeds when it is no longer needed.
 
 ## Purpose
 
-Students begin seeing the guitar as an organized musical system rather than a collection of strings and frets.
+Learners begin seeing the guitar as an organized musical system rather than a collection of strings and frets.
 
 The goal is not memorization.
 
 The goal is recognition.
 
-Every lesson changes how the learner sees the instrument.
+Every lesson changes how the learner understands the instrument.
 
 ---
 
@@ -106,7 +120,7 @@ Every lesson changes how the learner sees the instrument.
 
 **Conceptual Transformation**
 
-> The musical alphabet repeats forever.
+> The musical alphabet repeats.
 
 ---
 
@@ -140,11 +154,11 @@ The first four lessons answer one broad question:
 
 > **What are the notes?**
 
-The next lessons answer a different question:
+The next lessons answer another:
 
 > **Where are they?**
 
-This marks the learner's first major shift from understanding music conceptually to understanding how those concepts appear on the guitar.
+The learner begins moving from understanding music conceptually to recognizing how those ideas appear on the guitar.
 
 ---
 
@@ -180,17 +194,22 @@ This marks the learner's first major shift from understanding music conceptually
 
 **Conceptual Transformation**
 
-> The entire fretboard is built from repeating musical relationships.
+> The fretboard is one connected system built from repeating musical relationships.
 
 ---
 
-## Future Module Progression
+# Future Module Progression
 
-The remainder of the curriculum should continue following the same pattern.
+Every future module should follow the same rhythm established in Module 1.
 
-Every lesson should answer a meaningful question while preparing the learner to ask the next.
+Each lesson should:
 
-Possible future modules include:
+- acknowledge previous understanding
+- answer one meaningful question
+- create one conceptual transformation
+- naturally lead to the next question
+
+Possible future destinations include:
 
 - Musical Intervals
 - Scale Construction
@@ -208,22 +227,25 @@ Possible future modules include:
 - Technique in Service of Expression
 - Musical Independence
 
-These modules describe broad destinations rather than rigid sequences.
+These describe destinations rather than fixed checkpoints.
 
-The exact ordering may evolve as the curriculum develops.
+The exact sequence may evolve as the curriculum grows.
 
 ---
 
 # Design Standards
 
-Every lesson should satisfy the following criteria:
+Every lesson should contribute to one continuous educational conversation.
 
-- One major conceptual transformation.
+Every lesson should include:
+
 - One meaningful learner question.
+- One major conceptual transformation.
 - Discovery before explanation whenever practical.
-- Relationships before memorization.
+- Recognition before vocabulary.
+- Relationships before isolated facts.
 - Reflection before completion.
-- A clear connection to previous lessons.
+- A clear connection to previous understanding.
 - A natural bridge to the next lesson.
 
 If a lesson cannot be summarized by one transformation, it should probably become multiple lessons.
@@ -239,11 +261,13 @@ Previous Understanding
         ↓
 Meaningful Question
         ↓
+Observation
+        ↓
 Experiment
         ↓
 Discovery
         ↓
-Explanation
+Language
         ↓
 Application
         ↓
@@ -254,7 +278,7 @@ Language of Music Principle
 Next Question
 ```
 
-This rhythm should become invisible to the learner while remaining intentional to the curriculum author.
+This structure should become invisible to the learner while remaining intentional for the curriculum author.
 
 ---
 
@@ -262,21 +286,21 @@ This rhythm should become invisible to the learner while remaining intentional t
 
 As the curriculum progresses:
 
-The lessons should become shorter.
+The lessons become shorter.
 
-The learner's observations should become deeper.
+The learner's observations become deeper.
 
-The explanations should become lighter.
+The explanations become lighter.
 
-Eventually, learners should begin discovering ideas before the curriculum formally introduces them.
+Eventually, learners begin recognizing ideas before they are explained.
 
-That is not an accident.
+They begin asking questions before the curriculum asks them.
 
-It is the goal.
+They begin discovering connections on their own.
 
-The curriculum should gradually shift from teacher-led discovery to learner-led discovery.
+The curriculum gradually shifts from teacher-guided discovery to learner-guided discovery.
 
-When that happens, the student is no longer simply completing lessons.
+At that point, the learner is no longer simply completing lessons.
 
 They are thinking like a musician.
 
@@ -296,7 +320,7 @@ Those moments indicate genuine understanding.
 
 The curriculum is no longer supplying every answer.
 
-It is helping learners ask better questions.
+It is helping learners continue asking better questions.
 
 ---
 
@@ -304,8 +328,8 @@ It is helping learners ask better questions.
 
 Every lesson should leave the learner with two things:
 
-One clear answer.
+One meaningful answer.
 
 One compelling new question.
 
-That rhythm of curiosity and discovery is the engine that drives **The Language of Music** from the first lesson to the last.
+That rhythm of curiosity and discovery is the engine that carries **The Language of Music** from the first lesson to the last—and eventually beyond the curriculum itself.
