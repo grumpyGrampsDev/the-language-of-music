@@ -14,21 +14,9 @@
 
 ## Looking Back
 
-Yesterday you began seeing an important relationship.
+Yesterday you discovered that a note is not tied to a single location. The note **A** appeared on the 5th fret of the Low E string...
 
-A note is not tied to a single fret.
-
-The note **A** appeared on the 5th fret of the Low E string...
-
-...and again on the open A string.
-
-The location changed.
-
-The musical identity did not.
-
-That discovery naturally raises another question.
-
-If notes appear more than once...
+...and again on the open A string. The location changed. The musical identity did not. That naturally raises another question. If notes appear more than once...
 
 **Is there a pattern to where they appear, or is every location something you simply have to memorize?**
 
@@ -36,24 +24,18 @@ If notes appear more than once...
 
 ## A Prediction
 
-Let's make a prediction before we play anything.
+Before we play anything, let's make a prediction. You already know this relationship.
 
-You already know this relationship:
+    Low E string
+    5th fret = A
 
-```
-Low E string
-5th fret = A
+           ↓
 
-↓
-
-Open A string = A
-```
+    Open A string = A
 
 Now ask yourself:
 
-If moving from one string to the next gave us the same note once...
-
-Might it happen again?
+If moving from one string to the next gave us the same note once, might it happen again?
 
 ---
 
@@ -61,95 +43,55 @@ Might it happen again?
 
 Play these pairs.
 
-```
-Low E — 5th fret
+    Low E — 5th fret
 
-↓
+           ↓
 
-Open A
-```
+    Open A
 
-Now:
+Now try:
 
-```
-A string — 5th fret
+    A string — 5th fret
 
-↓
+           ↓
 
-Open D
-```
+    Open D
 
 Then:
 
-```
-D string — 5th fret
+    D string — 5th fret
 
-↓
+           ↓
 
-Open G
-```
+    Open G
 
-Each time, you can test the same relationship.
-
-The note stays the same.
-
-Only its location changes.
-
-By now, it should begin to feel less like a coincidence.
+Each time, the note stays the same. Only its location changes. By now, this should begin to feel less like a coincidence.
 
 ---
 
 ## Looking for the Pattern
 
-Let's stop thinking about notes for a moment.
+Let's stop thinking about note names for a moment. Instead, pay attention to the movement.
 
-Instead...
+Every example followed exactly the same path.
 
-Look only at the movement.
+    Move one string higher.
 
-Each example followed exactly the same path.
+    Move five frets lower.
 
-```
-Move one string higher.
+Then again.
 
-Move five frets lower.
-```
+    Move one string higher.
 
-Again.
+    Move five frets lower.
 
-```
-One string higher.
-
-Five frets lower.
-```
-
-Again.
-
-```
-One string higher.
-
-Five frets lower.
-```
-
-The pattern never changed.
-
-You weren't memorizing new locations.
-
-You were repeating the same movement.
+You weren't memorizing new locations. You were repeating the same movement.
 
 ---
 
 ## Seeing Instead of Counting
 
-Imagine someone asks you to find another D.
-
-You already know one D.
-
-Instead of searching the entire fretboard...
-
-You now have another option.
-
-Follow the pattern.
+Imagine someone asks you to find another D. You already know one D. Instead of searching the entire fretboard, you now have another option. Follow the pattern.
 
 Move one string higher.
 
@@ -161,21 +103,9 @@ The guitar begins rewarding understanding instead of memory.
 
 ## Was the Shape Always There?
 
-Here's something worth thinking about.
+Here's something worth thinking about. Did today's lesson create a new pattern or did it simply help you notice one that had always been there?
 
-Did today's lesson create a new pattern?
-
-Or did it simply help you notice one that had always been there?
-
-The guitar didn't change overnight.
-
-Neither did the notes.
-
-Only your understanding changed.
-
-That's an important idea.
-
-Learning music often feels less like collecting new information...
+The guitar didn't change overnight. Neither did the notes. Maybe your understanding changed. Learning music often feels less like collecting new information...
 
 ...and more like noticing relationships that were quietly waiting to be discovered.
 
@@ -183,23 +113,11 @@ Learning music often feels less like collecting new information...
 
 ## One Small Exception
 
-You may be wondering...
+You may be wondering:
 
-"If this works every time, why stop at the G string?"
+> "If this works every time, why stop at the G string?"
 
-That's an excellent question.
-
-The answer has to do with how the guitar is tuned.
-
-One pair of neighboring strings behaves differently.
-
-The guitar has one intentional variation in its tuning.
-
-We'll explore why that exists later in the curriculum.
-
-For today, it's enough to recognize the pattern where it appears.
-
-You don't need every exception before you can understand the rule.
+That's an excellent question. The answer has to do with how the guitar is tuned. One pair of neighboring strings behaves differently, creating a single intentional variation in the pattern. We'll explore why later in the curriculum. For today, it's enough to recognize the pattern where it appears. You don't need every exception before you can understand the rule.
 
 ---
 
@@ -211,19 +129,13 @@ Choose one of these notes:
 - D
 - G
 
-Find it once.
-
-Then use today's movement to find it again.
-
-As you repeat the exercise, stop counting frets as quickly as you can.
+Find it once. Then use today's movement to find it again. As you repeat the exercise, stop counting frets as quickly as you can.
 
 Instead, ask yourself:
 
 > "Where should this note appear next?"
 
-Make your prediction first.
-
-Then check your answer.
+Make your prediction first. Then check your answer.
 
 ---
 
@@ -259,8 +171,6 @@ By the end of today's lesson, you should understand that:
 
 ## Looking Ahead
 
-Today you discovered your first repeating shape on the guitar.
-
-But one final question remains.
+Today you discovered your first repeating shape on the guitar. One final question remains.
 
 **If the fretboard is built from repeating notes and repeating patterns... is the entire neck actually one connected system?**
