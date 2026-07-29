@@ -14,19 +14,7 @@
 
 ## Looking Back
 
-So far, you've discovered something remarkable.
-
-Music uses only twelve unique notes.
-
-Those notes repeat over and over in octaves.
-
-You also learned that every fret represents one half step, giving the guitar a consistent and predictable structure.
-
-At this point, you can begin recognizing how notes appear along one string.
-
-But that naturally leads to another question.
-
-If the note **E** appears at the open string and again at the 12th fret...
+So far, you've discovered something beautifully simple. Music uses only twelve unique notes. Those notes repeat over and over in octaves, and every fret represents one half step, giving the guitar a consistent and predictable structure. At this point, you can begin recognizing how notes appear along a single string. That naturally raises another question. If the note **E** appears at the open string and again at the 12th fret...
 
 **Is that the only place you'll ever find an E?**
 
@@ -34,21 +22,11 @@ If the note **E** appears at the open string and again at the 12th fret...
 
 ## A Thought Experiment
 
-Imagine someone asks you to play an A.
-
-You reach for the 5th fret of the Low E string.
-
-You play it.
-
-They smile and say,
+Imagine someone asks you to play an A. You reach for the 5th fret of the Low E string and play it. They smile and say,
 
 > "That's right... but can you play a different A?"
 
-Different?
-
-How can there be another A?
-
-Isn't A already at the 5th fret?
+Different? How can there be another A? Isn't A already at the 5th fret?
 
 Let's find out.
 
@@ -56,9 +34,7 @@ Let's find out.
 
 ## An Experiment
 
-Before we discover anything new, think about something you may already do when you tune your guitar.
-
-When you tune your strings, you often compare one string to another.
+Before we discover anything new, think about something you may already do whenever you tune your guitar. You often compare one string to another.
 
 For example:
 
@@ -66,47 +42,23 @@ For example:
 - The 5th fret of the A string is used to tune the open D string.
 - The 5th fret of the D string is used to tune the open G string.
 
-But why does this work?
+But why does this work? Why can two different strings, played in two different places, create the same note?
 
-Why can two different strings, played in two different places, create the same note?
+Let's look more closely. Play the open A string.
 
-Let's look more closely.
-
-Play:
-
-- Open A string
-
-Now play:
-
-- 5th fret of the Low E string
+Now play the 5th fret of the Low E string.
 
 Both are A.
 
-You have already used this relationship every time you have tuned your guitar.
-
-Now let's see what this means.
+You've already used this relationship every time you've tuned your guitar. Now let's understand what it means.
 
 ---
 
 ## What Just Happened?
 
-## What Just Happened?
+Listen carefully. The location changed. The note did not. Until now, you may have naturally connected notes with places on the fretboard. That connection is useful, but it's only part of the picture. A fretboard location tells you where a note can be found. It does not define what the note is.
 
-Listen carefully.
-
-The location changed.
-
-The note did not.
-
-Until now, you may have naturally connected notes with places on the fretboard.
-
-That connection is useful.
-
-But it is only part of the picture.
-
-A fretboard location tells you where a note can be found.
-
-It does not define what the note is.
+When we say:
 
 > G is the 3rd fret.
 
@@ -114,15 +66,7 @@ It does not define what the note is.
 
 > B is the 7th fret.
 
-But those statements aren't completely true.
-
-They're only describing one place where those notes appear.
-
-The guitar isn't assigning one location to each note.
-
-It's repeating the same musical identities across the instrument.
-
-The fretboard is beginning to feel less like a list...
+...we're only describing one place where those notes appear. The guitar isn't assigning one location to each note. It's repeating the same musical identities across the instrument. The fretboard is beginning to feel less like a list...
 
 ...and more like a map.
 
@@ -130,35 +74,13 @@ The fretboard is beginning to feel less like a list...
 
 ## A New Way to Think
 
-Imagine writing your name on two different pieces of paper.
-
-The paper changed.
-
-Your name didn't.
-
-Notes work the same way.
-
-An **A** is still an **A**, whether you play it:
-
-- on the Low E string,
-- on the open A string,
-- or somewhere else on the guitar that you'll discover later.
-
-The location changes.
-
-The musical identity does not.
+Imagine writing your name on two different pieces of paper. The paper changed. Your name didn't. Notes work the same way. An **A** is still an **A**, whether you play it on the Low E string, on the open A string, or somewhere else on the guitar that you'll discover later. The location changes. The musical identity does not.
 
 ---
 
 ## Giving the Idea a Name
 
-Musicians often talk about finding the same note in different places on the fretboard.
-
-These are sometimes called **unisons** when they are the same pitch, or **octaves** when they are the same note name at different pitches.
-
-For now, you don't need to worry about those labels.
-
-The important discovery is much simpler.
+Musicians often talk about finding the same note in different places on the fretboard. These are sometimes called **unisons** when they are the same pitch, or **octaves** when they are the same note name at different pitches. For now, you don't need to worry about those labels. The important discovery is much simpler.
 
 > **A note is an identity, not a location.**
 
@@ -219,8 +141,6 @@ By the end of today's lesson, you should understand that:
 
 ## Looking Ahead
 
-Today you discovered that notes appear more than once.
-
-But another question immediately follows.
+Today you discovered that notes appear more than once. That naturally raises another question.
 
 **If notes repeat across the fretboard... can you predict where they'll appear before you even look?**
