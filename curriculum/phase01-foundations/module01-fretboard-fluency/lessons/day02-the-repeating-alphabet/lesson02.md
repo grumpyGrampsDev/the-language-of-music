@@ -14,27 +14,11 @@
 
 ## Looking Back
 
-Yesterday you began making an important connection.
+Yesterday you discovered that music uses only seven letter names.
 
-Music uses only seven letter names.
+    A  B  C  D  E  F  G
 
-```
-A  B  C  D  E  F  G
-```
-
-Those names are the foundation of everything that follows.
-
-You also found those notes on your guitar.
-
-The fretboard began changing.
-
-Instead of seeing only frets...
-
-...you began seeing notes.
-
-But that discovery creates a new question.
-
-If music only has seven letter names...
+Those names are the foundation of everything that follows. You also found them on your guitar, and the fretboard began changing. Instead of seeing only frets, you began seeing notes. That discovery naturally raises another question. If music only has seven letter names...
 
 **Why does the guitar have so many frets?**
 
@@ -44,37 +28,27 @@ If music only has seven letter names...
 
 Think about the Low E string from yesterday.
 
-You found these notes.
+    Open   E
 
-```
-Open   E
+    1st    F
 
-1st    F
+    3rd    G
 
-3rd    G
+    5th    A
 
-5th    A
+    7th    B
 
-7th    B
+    8th    C
 
-8th    C
+    10th   D
 
-10th   D
+    12th   E
 
-12th   E
-```
-
-Look carefully.
-
-What note did you arrive at on the 12th fret?
-
-It wasn't a new letter.
+Look carefully. What note did you arrive at on the 12th fret? It wasn't a new letter.
 
 It was **E** again.
 
-That's curious.
-
-Why does music return to a note it has already used instead of continuing with new letters?
+That's curious. Why does music return to a note it has already used instead of continuing with new letters?
 
 ---
 
@@ -82,36 +56,24 @@ Why does music return to a note it has already used instead of continuing with n
 
 Read through the musical alphabet again.
 
-```
-A  B  C  D  E  F  G
-```
+    A  B  C  D  E  F  G
 
-Now keep going.
-
-Don't stop at G.
+Now keep going. Don't stop at G.
 
 What naturally comes next?
 
-```
-A  B  C  D  E  F  G
-A  B  C  D  E  F  G
-```
+    A  B  C  D  E  F  G
+    A  B  C  D  E  F  G
 
 And again.
 
-```
-A  B  C  D  E  F  G
-A  B  C  D  E  F  G
-A  B  C  D  E  F  G
-```
+    A  B  C  D  E  F  G
+    A  B  C  D  E  F  G
+    A  B  C  D  E  F  G
 
-Notice something.
+Notice what happened.
 
-You aren't learning new letters.
-
-You're returning to familiar ones.
-
-The musical alphabet doesn't end.
+You didn't learn any new letters. You simply returned to familiar ones. The musical alphabet doesn't end.
 
 It repeats.
 
@@ -125,23 +87,11 @@ Now play the 12th fret.
 
 Listen carefully.
 
-The two notes don't have the same pitch.
-
-One is higher than the other.
-
-But they sound closely related.
-
-Almost as if they belong to the same family.
-
-They share the same musical identity.
-
-One is a higher version of the other.
+The two notes don't have the same pitch. One is higher than the other, yet they sound closely related—almost as if they belong to the same family. They share the same musical identity.
 
 That's why they share the same name.
 
-The alphabet hasn't started over because we ran out of letters.
-
-It has started over because we've returned to the same musical identity.
+The alphabet doesn't begin again because we run out of letters. It begins again because we've returned to the same musical identity at a higher pitch.
 
 ---
 
@@ -153,23 +103,13 @@ It's called an **octave**.
 
 For example:
 
-```
-E → E
+    E → E
 
-A → A
+    A → A
 
-C → C
-```
+    C → C
 
-These notes are not the same pitch.
-
-One is higher.
-
-One is lower.
-
-But they are the same note name.
-
-Think of them as different voices singing the same musical letter.
+These notes are not the same pitch. One is higher, and one is lower, but they share the same note name. You can think of them as different voices singing the same musical letter.
 
 ---
 
@@ -177,23 +117,21 @@ Think of them as different voices singing the same musical letter.
 
 Let's count.
 
-```
-C (1)
+    C (1)
 
-D (2)
+    D (2)
 
-E (3)
+    E (3)
 
-F (4)
+    F (4)
 
-G (5)
+    G (5)
 
-A (6)
+    A (6)
 
-B (7)
+    B (7)
 
-C (8)
-```
+    C (8)
 
 The eighth note brings us back to C.
 
@@ -211,21 +149,11 @@ An octave brings you back home.
 
 Return to the Low E string one more time.
 
-```
-Open   E
+    Open   E
 
-12th   E
-```
+    12th   E
 
-Yesterday those looked like two different places.
-
-Today they look like something else.
-
-They're connected.
-
-They're two versions of the same note.
-
-This is the first repeating pattern you've made visible on the guitar.
+Yesterday those looked like two different places. Today they represent something different. They're connected. They're two versions of the same note. This is the first repeating pattern you've discovered on the guitar.
 
 It won't be the last.
 
@@ -233,35 +161,29 @@ It won't be the last.
 
 ## Try It Yourself
 
-Choose any natural note on the Low E string.
-
-Say its name aloud.
+Choose any natural note on the Low E string and say its name aloud.
 
 Now continue counting through the musical alphabet until you reach that same letter again.
 
 For example:
 
-```
-G
+    G
 
-A
+    A
 
-B
+    B
 
-C
+    C
 
-D
+    D
 
-E
+    E
 
-F
+    F
 
-G
-```
+    G
 
-Repeat this with several different starting notes.
-
-As you do, notice that every journey eventually returns to where it began.
+Repeat this with several different starting notes. As you do, notice that every journey eventually returns to where it began.
 
 ---
 
@@ -269,13 +191,11 @@ As you do, notice that every journey eventually returns to where it began.
 
 Before today's lesson, how did you think about what happens after G?
 
-Did you think of it as a new beginning, a repeated pattern, or something else?
+Did you think of it as a new beginning, a repeating pattern, or something else?
 
 How does that understanding change the way you view the notes on the guitar?
 
-When you look at the open E string and the 12th fret now, do they feel like two unrelated notes...
-
-...or two versions of the same one?
+When you look at the open E string and the 12th fret now, do they feel like two unrelated notes, or two versions of the same one?
 
 ---
 
@@ -299,11 +219,7 @@ By the end of today's lesson, you should understand that:
 
 ## Looking Ahead
 
-Today you discovered that the musical alphabet repeats.
-
-But another mystery remains.
-
-If the alphabet only has seven letters...
+Today you discovered that the musical alphabet repeats. That leads to another question. If the alphabet only has seven letters...
 
 **Why are there twelve different notes?**
 

@@ -1,4 +1,3 @@
-```markdown
 # Day 01 — The Musical Alphabet
 
 > Phase I • Musical Foundations
@@ -244,4 +243,3 @@ If there are only seven note names...
 **Why does the guitar have so many frets?**
 
 We'll begin answering that in the next lesson.
-```
