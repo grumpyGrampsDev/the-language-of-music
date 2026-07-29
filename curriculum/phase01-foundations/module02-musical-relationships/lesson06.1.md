@@ -1,5 +1,4 @@
-```markdown
-# Day 06 — When Notes Begin to Speak
+# Day 06.1 — The Distance Between Two Notes
 
 > Phase I • Musical Foundations
 >
@@ -9,159 +8,99 @@
 
 ## Learner's Question
 
-> **If I know the notes, what makes them become music?**
+> **If every note has a relationship to every other note, how do musicians describe those relationships?**
 
 ---
 
 ## Looking Back
 
-In Module 1, you learned to see the guitar differently.
+By the end of Module 1, the fretboard no longer looked like a collection of isolated positions. You discovered that notes repeat, those repetitions follow recognizable patterns, and the entire neck forms one connected musical system. That changes the kind of questions we can ask. Until now, we've focused on individual notes. But music doesn't happen because one note exists. It happens because one note is followed by another. So before we learn scales...
 
-What may have once looked like six strings stretched across numbered frets gradually became an organized musical system. You discovered that notes repeat, patterns repeat, and the fretboard is built from consistent musical relationships.
+Before we build chords...
 
-You no longer see only places.
+Before we explore harmony...
 
-You see notes.
+We need to answer one simple question.
 
-But that discovery naturally leads to another question.
-
-If every note has its own identity...
-
-**What happens when two notes meet?**
+**How do musicians describe the relationship between two notes?**
 
 ---
 
-## A Simple Experiment
+## A Familiar Experiment
 
-Choose any note on your guitar.
+Play any note on your guitar. Now play the very next fret. You already know something about that movement.
 
-Play it once.
+It's one half step.
 
-Let it ring until it fades away.
+Now play two frets higher. That's one whole step.
 
-Now ask yourself:
+Try three frets. Then four.
 
-> **What did you hear?**
-
-Not the name of the note.
-
-Not where you played it.
-
-Simply...
-
-What did you hear?
+Notice what you're doing. You aren't just finding notes. You're measuring the distance between them.
 
 ---
 
-## Try Again
+## Looking at It Differently
 
-Play the same note a second time.
+Think back to yesterday. The fretboard became one connected system because every note related to every other note in predictable ways. Today we're taking one more step. Instead of asking,
 
-This time, before the sound completely disappears, play a different note.
+> "What note is this?"
 
-Listen carefully.
+we're beginning to ask,
 
-Did anything change?
+> "How far apart are these two notes?"
 
-The first note didn't change.
+It's a small change in perspective. But it changes the way musicians think about music.
 
-The second note didn't change.
+---
 
-Yet together, they created something that neither note could create alone.
+## Giving the Idea a Name
+
+Musicians have a word for the distance between two notes. It's called an **interval**. That's all an interval is. The relationship between one note...
+
+...and another. You already know several intervals. You simply may not have been calling them that. A half step is an interval. A whole step is an interval. Every distance between two notes is an interval. The word is new. The idea isn't.
 
 ---
 
 ## The Discovery
 
-A single note has an identity.
-
-It can be high or low.
-
-Loud or quiet.
-
-Bright or dark.
-
-But by itself, it tells only part of the story.
-
-The moment another note joins it, something new appears.
-
-Your ear no longer hears only two separate notes.
-
-It begins hearing the relationship between them.
-
-That relationship creates movement.
-
-It creates expectation.
-
-It creates contrast.
-
-It begins to create music.
+Imagine two cities connected by a road. The cities matter. But sometimes what matters most is the distance between them. Music works the same way. Individual notes have names. But melodies, chords, and harmony are built from the distances that connect those notes. Notes are the vocabulary. Intervals describe the relationships.
 
 ---
 
-## Giving the Relationship a Name
+## Try It Yourself
 
-Musicians have a word for the relationship between two notes.
+Choose any note on your guitar. Now choose another note nearby.
 
-It's called an **interval**.
+Before naming either note, ask yourself:
 
-Many books define an interval as the distance between two notes.
+> "How far apart are they?"
 
-That's true.
+Measure the distance.
 
-But it's only part of the story.
+Is it:
 
-An interval is also the relationship your ear hears between those notes. It describes how one note feels in relation to another. Every melody, every chord, and every harmony is built from these relationships.
+- One half step?
+- One whole step?
+- Something larger?
 
-Today, you don't need to identify intervals.
-
-You only need to notice that they exist.
-
----
-
-## Listen Before You Label
-
-Choose one note and make it your starting point.
-
-Now play several different notes after it.
-
-Leave a moment between each pair so you can listen.
-
-Don't worry about naming anything.
-
-Don't count frets.
-
-Don't measure distances.
-
-Simply notice that every second note changes the character of the first.
-
-Some combinations may feel calm.
-
-Others may feel unsettled.
-
-Some may seem familiar.
-
-Others may surprise you.
-
-You are beginning to listen for relationships instead of isolated sounds.
+Repeat this with several different pairs of notes. As you do, notice how naturally your attention begins shifting away from individual notes and toward the relationships between them.
 
 ---
 
 ## Reflection
 
-Think back to the beginning of today's lesson.
+Before today's lesson, how did you think about moving from one note to another?
 
-Before today, did you think of music primarily as individual notes...
+Did you mostly notice the notes themselves or the distance between them?
 
-...or as relationships between notes?
-
-How has your understanding changed?
+How does giving that relationship a name change the way you think about the music you're playing?
 
 ---
 
 ## Language of Music Principle #8
 
-> **A note has an identity. Music begins when notes begin to relate to one another.**
+> **Music begins with notes, but it comes alive through the relationships between them.**
 
 ---
 
@@ -169,19 +108,16 @@ How has your understanding changed?
 
 By the end of today's lesson, you should understand that:
 
-- A single note has an identity, but relationships create musical meaning.
-- Two notes together create something neither note can create alone.
-- The relationship between two notes is called an **interval**.
-- Intervals are heard as relationships, not just measured as distances.
-- Listening for relationships is the beginning of musical understanding.
+- The distance between two notes is called an interval.
+- Half steps and whole steps are both intervals.
+- Intervals describe relationships rather than individual notes.
+- Thinking about musical distance prepares you to understand melody, harmony, and chords.
+- You're beginning to think less about isolated notes and more about how notes connect.
 
 ---
 
 ## Looking Ahead
 
-Today you discovered that every pair of notes creates a relationship.
+Today you discovered that every pair of notes forms an interval. That naturally raises another question.
 
-That naturally leads to another question.
-
-**If every relationship is an interval... how many different intervals are there?**
-```
+**If an interval is simply a distance... why do musicians give different intervals different names?**
