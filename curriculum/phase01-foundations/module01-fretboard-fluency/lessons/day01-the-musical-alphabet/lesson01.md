@@ -30,29 +30,19 @@ We need to answer one simple question.
 
 ## Look at Your Guitar
 
-Take a moment to look at your guitar. Not because you've never seen it before, but because after today you may begin seeing something different.
+Take a moment to look at your guitar. Not because you've never seen it before, but because after today you may begin seeing something different. Every guitarist develops their own way of understanding the instrument. Some players see familiar chord shapes. Some see scale patterns. Some see places their hands already know how to move. Some hear sounds they cannot yet explain. Some simply see strings stretched across numbered frets.
 
-Every guitarist develops their own way of understanding the instrument. Some players see familiar chord shapes. Some see scale patterns. Some see places their hands already know how to move. Some hear sounds they cannot yet explain. Some simply see strings stretched across numbered frets.
-
-None of those perspectives are wrong. They are all different ways of looking at the same instrument.
-
-Today begins with a different question.
+None of those perspectives are wrong. They are all different ways of looking at the same instrument. Today begins with a different question.
 
 **What are we actually looking at when we look at a guitar?**
 
 Beyond the wood. Beyond the strings. Beyond the frets.
 
-What is the guitar designed to help us create?
-
-The answer is surprisingly simple.
+What is the guitar designed to help us create? The answer is surprisingly simple.
 
 > **Notes.**
 
-The strings, frets, and physical design of the guitar all matter, but they are not the destination. They are the tools that allow us to create something larger.
-
-Once we begin seeing notes, we can begin seeing the relationships between them. That may sound obvious, but it marks an important shift.
-
-From this point forward, we'll gradually spend less time thinking like someone holding a guitar...
+The strings, frets, and physical design of the guitar all matter, but they are not the destination. They are the tools that allow us to create something larger. Once we begin seeing notes, we can begin seeing the relationships between them. That may sound obvious, but it marks an important shift. From this point forward, we'll gradually spend less time thinking like someone holding a guitar...
 
 ...and more time thinking like someone learning the language of music.
 
@@ -70,17 +60,13 @@ Instead, they say:
 
 > "Play a G."
 
-That's a very different kind of instruction. They aren't telling you where to put your finger; they're telling you what musical idea they want to hear.
-
-The ability to connect those two things—the note and its location—is one of the foundations of musical fluency.
+That's a very different kind of instruction. They aren't telling you where to put your finger; they're telling you what musical idea they want to hear. The ability to connect those two things—the note and its location—is one of the foundations of musical fluency.
 
 ---
 
 ## Discovering Music's Alphabet
 
-How many note names do you think music uses?
-
-Take a guess before reading further.
+How many note names do you think music uses? Take a guess before reading further.
 
 Twenty?
 
@@ -96,12 +82,6 @@ Music uses just seven letter names.
 
 That's the entire musical alphabet.
 
-No H.
-
-No M.
-
-No Z.
-
 Just seven letters.
 
 ---
@@ -116,9 +96,7 @@ Now stop.
 
 What comes next?
 
-If music ended at G, we'd eventually run out of notes.
-
-Instead, something beautifully simple happens.
+Something beautifully simple happens.
 
 The alphabet begins again.
 
@@ -141,9 +119,7 @@ Now let's return to the guitar.
 
 The thickest string is called the **Low E string**.
 
-Can you guess why?
-
-Play it without pressing any frets.
+Can you guess why? Play it without pressing any frets.
 
 Its note is **E**.
 
@@ -165,9 +141,7 @@ Now follow the musical alphabet as it appears along that string.
 
     12th   E
 
-Don't worry about memorizing these locations. Instead, notice what's happening.
-
-The same alphabet you learned a moment ago is now appearing on the guitar. The fretboard isn't just a row of numbered frets.
+Don't worry about memorizing these locations. Instead, notice what's happening. The same alphabet you learned a moment ago is now appearing on the guitar. The fretboard isn't just a row of numbered frets.
 
 It's a map of musical notes.
 
@@ -175,9 +149,7 @@ It's a map of musical notes.
 
 ## Try It Yourself
 
-Starting from the open Low E string, see if you can find each of these notes.
-
-Don't rush. Count through the alphabet if you need to.
+Starting from the open Low E string, see if you can find each of these notes. Don't rush. Count through the alphabet if you need to.
 
 - E
 - F
@@ -193,17 +165,13 @@ As you find each note:
 2. Play it.
 3. Say its name again.
 
-Your goal today isn't speed or memorization.
-
-It's making a connection between a note's name, its location, and its sound.
+Your goal today isn't speed or memorization. It's making a connection between a note's name, its location, and its sound.
 
 ---
 
 ## Reflection
 
-Think back to the beginning of the lesson.
-
-When you first looked at the guitar, what did you see?
+Think back to the beginning of the lesson. When you first looked at the guitar, what did you see?
 
 What do you see now?
 
@@ -234,11 +202,7 @@ By the end of today's lesson, you should understand that:
 
 ## Looking Ahead
 
-Today you discovered that music uses only seven letter names.
-
-That raises another question.
-
-If there are only seven note names...
+Today you discovered that music uses only seven letter names. That raises another question. If there are only seven note names...
 
 **Why does the guitar have so many frets?**
 
