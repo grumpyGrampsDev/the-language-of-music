@@ -82,13 +82,7 @@ Module 2 will give language to what you've already begun to hear.
 
 ## The Journey Ahead
 
-Over the next several lessons, you'll discover that every melody, every chord, every harmony, and every song you've ever loved is built from surprisingly simple relationships between notes.
-
-Those relationships have names.
-
-They have patterns.
-
-And once you begin recognizing them, music starts making sense in an entirely new way.
+Over the next several lessons, you'll discover that every melody, every chord, every harmony, and every song you've ever loved is built from surprisingly simple relationships between notes. Those relationships have names. They have patterns. And once you begin recognizing them, music starts making sense in an entirely new way.
 
 ---
 
@@ -100,8 +94,6 @@ And once you begin recognizing them, music starts making sense in an entirely ne
 
 ## Looking Ahead
 
-You've learned to recognize the notes.
-
-Now it's time to ask a different question.
+You've learned to recognize the notes. Now it's time to ask a different question.
 
 **If one note doesn't create music by itself... what happens when another note joins the conversation?**
