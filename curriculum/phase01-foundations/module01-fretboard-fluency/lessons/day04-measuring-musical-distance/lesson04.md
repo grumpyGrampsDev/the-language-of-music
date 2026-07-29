@@ -14,63 +14,25 @@
 
 ## Looking Back
 
-So far, you've begun connecting several important ideas.
-
-Music uses seven letter names.
-
-Those letters repeat in octaves.
-
-Between those letters are five additional notes, giving us twelve unique notes before the pattern begins again.
-
-Along the way, you've also noticed something every guitarist experiences:
-
-Moving one fret changes the pitch.
-
-Not by a random amount.
-
-By exactly the same amount.
-
-That raises another question.
-
-What do musicians call the distance from one fret to the very next?
+So far, you've connected several important ideas. Music uses seven letter names. Those letters repeat in octaves, and between them are five additional notes, giving us twelve unique notes before the pattern begins again. Along the way, you've also noticed something every guitarist experiences. Moving one fret changes the pitch. Not by a random amount. By exactly the same amount. That raises another question. What do musicians call the distance from one fret to the very next?
 
 ---
 
 ## A Simple Experiment
 
-Choose any fret on your guitar.
+Choose any fret on your guitar. It doesn't matter which one. Play the note.
 
-It doesn't matter which one.
+Now move exactly **one fret higher** and play again. Listen carefully. The second note is higher, but the distance between the two notes is small and consistent.
 
-Play the note.
+Now move one more fret. Again, the change is exactly the same size.
 
-Now move exactly **one fret higher** and play again.
-
-Listen carefully.
-
-The second note is higher.
-
-But the distance between the two notes is small and consistent.
-
-Now move one more fret.
-
-Again, the change is exactly the same size.
-
-Try this several times.
-
-No matter where you begin, moving one fret always produces the same musical step.
-
-That consistency isn't an accident.
-
-It's one of the fundamental building blocks of music.
+Try this several times. No matter where you begin, moving one fret always produces the same musical step. That consistency isn't an accident. It's one of the fundamental building blocks of music.
 
 ---
 
 ## Giving the Step a Name
 
-Musicians call the distance between one note and the very next note a **half step**.
-
-On the guitar, this relationship becomes easy to see.
+Musicians call the distance between one note and the very next note a **half step**. On the guitar, this relationship becomes easy to see.
 
 > **One fret equals one half step.**
 
@@ -78,21 +40,15 @@ For standard tuning, this relationship is consistent across the fretboard.
 
 Whether you're moving from:
 
-```
-E → F
-```
+    E → F
 
 or
 
-```
-F → F#
-```
+    F → F#
 
 or
 
-```
-B → C
-```
+    B → C
 
 If you moved one fret, you moved one half step.
 
@@ -102,43 +58,27 @@ If you moved one fret, you moved one half step.
 
 Let's revisit the musical alphabet.
 
-```
-A  A#
+    A  A#
 
-B
+    B
 
-C  C#
+    C  C#
 
-D  D#
+    D  D#
 
-E
+    E
 
-F  F#
+    F  F#
 
-G  G#
-```
+    G  G#
 
-Yesterday, you noticed that B and C have no note between them.
+Yesterday, you noticed that B and C have no note between them. The same is true for E and F. Now you understand why. Those pairs are already **one half step apart.** There isn't room for another note.
 
-The same is true for E and F.
+Compare that to these pairs.
 
-Now you understand why.
+    F   F#   G
 
-Those pairs are already **one half step apart**.
-
-There isn't room for another note.
-
-Compare that to these pairs:
-
-```
-F   F#   G
-```
-
-Here, F to F# is one half step.
-
-F# to G is another half step.
-
-Together, those two half steps create a larger distance.
+Here, F to F# is one half step. F# to G is another half step. Together, those two half steps create a larger distance.
 
 ---
 
@@ -146,27 +86,19 @@ Together, those two half steps create a larger distance.
 
 Let's test the idea.
 
-Start on F.
+Start on F. Move one fret.
 
-Move one fret.
-
-You're now on F#.
-
-Move one more fret.
+You're now on F#. Move one more fret.
 
 You're on G.
 
-You moved two half steps.
-
-Musicians call that distance a **whole step**.
+You moved two half steps. Musicians call that distance a **whole step**.
 
 So now you know two important measurements.
 
-```
-One fret = One half step
+    One fret = One half step
 
-Two frets = One whole step
-```
+    Two frets = One whole step
 
 Think of them as the ruler you'll use to measure musical distance.
 
@@ -174,15 +106,7 @@ Think of them as the ruler you'll use to measure musical distance.
 
 ## Seeing the Guitar Differently
 
-When you first learned the guitar, you may have thought of frets primarily as places where your fingers go.
-
-Now they are becoming something more.
-
-Each fret represents a musical distance.
-
-Each movement across the fretboard describes a relationship between notes.
-
-This is one of the ways musicians begin to think about the instrument musically.
+When you first learned the guitar, you may have thought of frets primarily as places where your fingers go. Now they are becoming something more. Each fret represents a musical distance. Each movement across the fretboard describes a relationship between notes. This is one of the ways musicians begin to think about the instrument musically.
 
 ---
 
@@ -213,9 +137,7 @@ As you repeat this exercise, focus less on memorizing individual notes and more 
 
 ## Reflection
 
-Think back to the beginning of today's lesson.
-
-Before today, what did one fret represent in your mind?
+Think back to the beginning of today's lesson. Before today, what did one fret represent in your mind?
 
 Now, what does it represent?
 
@@ -245,15 +167,7 @@ By the end of today's lesson, you should understand that:
 
 ## Looking Ahead
 
-You've now learned the musical alphabet...
-
-You've discovered octaves...
-
-You've uncovered all twelve notes...
-
-And you've learned how musicians measure the distance between them.
-
-But one question remains.
+You've now learned the musical alphabet. You've discovered octaves. You've uncovered all twelve notes. And you've learned how musicians measure the distance between them. But one question remains.
 
 **Can you find every note on the fretboard without memorizing all 144 fret positions?**
 
