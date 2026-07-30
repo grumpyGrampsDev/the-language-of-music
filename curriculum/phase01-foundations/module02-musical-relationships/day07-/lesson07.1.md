@@ -1,4 +1,3 @@
-```markdown
 # Day 7.1 — Every Song Needs a Home
 
 ## Learner's Question
@@ -127,4 +126,3 @@ Do they each have their own purpose?
 Or are they simply different distances away from home?
 
 That's the question we'll explore next.
-```
